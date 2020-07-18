@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eAdd 2 USSR Influence in Vietnam. For the remainder of the turn, the Soviet player may add 1 Operations point to any card that uses all points in Southeast Asia.\u003c/p\u003e\n",
+  "name": "Vietnam Revolts*",
+  "number": 9,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/009/printed/",
+  "plainContent": "Add 2 USSR Influence in Vietnam. For the remainder of the turn, the Soviet player may add 1 Operations point to any card that uses all points in Southeast Asia.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

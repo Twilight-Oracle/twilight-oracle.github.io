@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, after USA launches a coup, award USSR 1 VP.\u003c/p\u003e\n",
+  "name": "Yuri and Samantha*",
+  "number": 109,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/109/oracle/",
+  "plainContent": "Until end of turn, after USA launches a coup, award USSR 1 VP.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

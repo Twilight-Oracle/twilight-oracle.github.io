@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eRemove 2 USSR Influence in Poland and then add 1 US Influence in Poland.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eAllows play of \u0026lsquo;Solidarity\u0026rsquo;.\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "John Paul II Elected Pope*",
+  "number": 68,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/068/printed/",
+  "plainContent": "Remove 2 USSR Influence in Poland and then add 1 US Influence in Poland.\nAllows play of \u0026lsquo;Solidarity\u0026rsquo;.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

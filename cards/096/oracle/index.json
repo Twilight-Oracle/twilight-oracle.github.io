@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 3 USA influence in \u003ccode\u003eEast Germany\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eUSA may launch a coup or perform realignments in \u003ccode\u003eEurope\u003c/code\u003e using this card, ignoring DEFCON restrictions, but gains no military operations.\u003c/p\u003e\n\u003cp\u003eEnd \u003ccode\u003e055-M Willy Brandt\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e055-M Willy Brandt\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "Tear Down This Wall*",
+  "number": 96,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/096/oracle/",
+  "plainContent": "Place 3 USA influence in East Germany.\nUSA may launch a coup or perform realignments in Europe using this card, ignoring DEFCON restrictions, but gains no military operations.\nEnd 055-M Willy Brandt.\nOngoing — 055-M Willy Brandt does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 3 USA influence in \u003ccode\u003ePoland\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eIf \u003ccode\u003e068-M John Paul II Elected Pope\u003c/code\u003e is not ongoing, this card instead does nothing.\u003c/p\u003e\n",
+  "name": "Solidarity*",
+  "number": 101,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/101/oracle/",
+  "plainContent": "Place 3 USA influence in Poland.\nIf 068-M John Paul II Elected Pope is not ongoing, this card instead does nothing.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

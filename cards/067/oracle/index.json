@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR chooses a card in its hand at random and declares it.\u003c/p\u003e\n\u003cp\u003ePerform one (USA\u0026rsquo;s choice):\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eUSA plays the declared card.\u003c/li\u003e\n\u003cli\u003eUSA conducts operations with this card.\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "name": "Grain Sales to Soviets",
+  "number": 67,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/067/oracle/",
+  "plainContent": "USSR chooses a card in its hand at random and declares it.\nPerform one (USA\u0026rsquo;s choice):\n USA plays the declared card. USA conducts operations with this card.  ",
+  "side": "USA",
+  "types": [],
+  "version": "oracle"
+}

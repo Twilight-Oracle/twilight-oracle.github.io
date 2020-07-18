@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003ePlay in Headline Phase to cancel USSR Headline event, including Scoring Card. Canceled card returns to Discard Pile.\u003c/p\u003e\n\u003cp\u003eIf \u003cem\u003eDefectors\u003c/em\u003e played by USSR during Soviet action round, US gains 1 VP (unless played on the Space Race).\u003c/p\u003e\n",
+  "name": "Defectors",
+  "number": 103,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/103/printed/",
+  "plainContent": "Play in Headline Phase to cancel USSR Headline event, including Scoring Card. Canceled card returns to Discard Pile.\nIf Defectors played by USSR during Soviet action round, US gains 1 VP (unless played on the Space Race).\n",
+  "side": "USA",
+  "types": [],
+  "version": "printed"
+}

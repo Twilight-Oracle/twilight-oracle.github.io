@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eTaiwan shall be treated as a Battleground country for scoring purposes, if the US controls Taiwan when the Asia Scoring Card is played or during Final Scoring at the end of Turn 10. Taiwan is not a Battleground country for any other game purpose. This card is discarded after US play of \u003cem\u003eThe China Card\u003c/em\u003e.\u003c/p\u003e\n",
+  "name": "Formosan Resolution*",
+  "number": 35,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/035/printed/",
+  "plainContent": "Taiwan shall be treated as a Battleground country for scoring purposes, if the US controls Taiwan when the Asia Scoring Card is played or during Final Scoring at the end of Turn 10. Taiwan is not a Battleground country for any other game purpose. This card is discarded after US play of The China Card.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

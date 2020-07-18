@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eSet the DEFCON at any level you want (1-5). This event counts as 5 Military Operations for the purpose of required Military Operations.\u003c/p\u003e\n",
+  "name": "How I Learned to Stop Worrying*",
+  "number": 46,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/046/printed/",
+  "plainContent": "Set the DEFCON at any level you want (1-5). This event counts as 5 Military Operations for the purpose of required Military Operations.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

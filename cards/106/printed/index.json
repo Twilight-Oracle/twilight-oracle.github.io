@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eIf the US controls Canada, the US may place 1 Influence in any country already containing US Influence at the conclusion of any Action Round in which the DEFCON marker moves to the \u0026lsquo;2\u0026rsquo; box. This event canceled by \u003cem\u003e#42 Quagmire\u003c/em\u003e.\u003c/p\u003e\n",
+  "name": "NORAD*",
+  "number": 106,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/106/printed/",
+  "plainContent": "If the US controls Canada, the US may place 1 Influence in any country already containing US Influence at the conclusion of any Action Round in which the DEFCON marker moves to the \u0026lsquo;2\u0026rsquo; box. This event canceled by #42 Quagmire.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

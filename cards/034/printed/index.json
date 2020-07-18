@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003ePlayer earns VPs equal to current DEFCON level minus 2, then improve DEFCON two levels.\u003c/p\u003e\n",
+  "name": "Nuclear Test Ban",
+  "number": 34,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/034/printed/",
+  "plainContent": "Player earns VPs equal to current DEFCON level minus 2, then improve DEFCON two levels.\n",
+  "side": "none",
+  "types": [],
+  "version": "printed"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all USSR influence from \u003ccode\u003eEgypt\u003c/code\u003e, then place 1 USA influence there.\u003c/p\u003e\n",
+  "name": "Sadat Expels Soviets*",
+  "number": 72,
+  "ops": 1,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/072/oracle/",
+  "plainContent": "Remove all USSR influence from Egypt, then place 1 USA influence there.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

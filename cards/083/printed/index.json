@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUS gains 1 VP.\u003c/p\u003e\n\u003cp\u003eAdd 1 USSR Influence in Argentina. Remove all USSR Influence from UK.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eSocialist Governments\u003c/em\u003e event no longer playable.\u003c/p\u003e\n",
+  "name": "The Iron Lady*",
+  "number": 83,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/083/printed/",
+  "plainContent": "US gains 1 VP.\nAdd 1 USSR Influence in Argentina. Remove all USSR Influence from UK.\nSocialist Governments event no longer playable.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

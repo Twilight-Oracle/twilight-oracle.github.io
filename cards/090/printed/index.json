@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR gains 2 VP.\u003c/p\u003e\n\u003cp\u003eImprove DEFCON one level.\u003c/p\u003e\n\u003cp\u003eIf \u003cem\u003eThe Reformer\u003c/em\u003e is in effect, then the USSR may place Influence or attempt Realignments as if they played a 4 Ops card.\u003c/p\u003e\n",
+  "name": "Glasnost*",
+  "number": 90,
+  "ops": 4,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/090/printed/",
+  "plainContent": "USSR gains 2 VP.\nImprove DEFCON one level.\nIf The Reformer is in effect, then the USSR may place Influence or attempt Realignments as if they played a 4 Ops card.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

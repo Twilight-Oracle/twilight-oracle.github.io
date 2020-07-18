@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 2 influence in a country in \u003ccode\u003eCentral America\u003c/code\u003e or \u003ccode\u003eSouth America\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eChoose a country in \u003ccode\u003eCentral America\u003c/code\u003e or \u003ccode\u003eSouth America\u003c/code\u003e; you may launch a coup in that country using this card, but you gain no military operations.\u003c/p\u003e\n",
+  "name": "Junta",
+  "number": 47,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/047/oracle/",
+  "plainContent": "Place 2 influence in a country in Central America or South America.\nChoose a country in Central America or South America; you may launch a coup in that country using this card, but you gain no military operations.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

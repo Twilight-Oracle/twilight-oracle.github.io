@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twilight Oracle</title>
+    <link>twilight-oracle.github.io/</link>
+    <description>Recent content on Twilight Oracle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="twilight-oracle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/001/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/001/oracle/</guid>
+      <description>Score Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/001/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/001/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/002/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/002/oracle/</guid>
+      <description>Score Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/002/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/002/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/003/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/003/oracle/</guid>
+      <description>Score the Middle East.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/003/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/003/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/004/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/004/oracle/</guid>
+      <description>Decrement DEFCON.
+Award USA VP equal to five minus DEFCON.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/004/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/004/printed/</guid>
+      <description>Degrade DEFCON one level.
+Then US player earns VPs equal to 5 minus current DEFCON level.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/005/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/005/oracle/</guid>
+      <description>USSR chooses a card in its hand at random and discards it.
+If that card is USA-aligned, USA resolves it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/005/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/005/printed/</guid>
+      <description>USSR player must randomly dicard one card. If the card is a US associated Event, the Event occurs immeditely. If the card is a USSR associated Event or an Event applicable to both players, then the card must be discarded without triggering the Event.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/006/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/006/oracle/</guid>
+      <description>Conduct operations with this card. This card&amp;rsquo;s operations value is 1 greater if all its operations are conducted in Asia.
+The enemy now holds this card. Turn it facedown.
+When USA resolves this card, end 035-E Formosan Resolution*.
+(This card is never in a side&amp;rsquo;s hand and cannot be discarded.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/006/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/006/printed/</guid>
+      <description>Begins the game with the USSR player.
++1 Operations value when all points are used in Asia. Pass to opponent after play.
++1 VP for the player holding this card at the end of Turn 10.
+Cancels effect of &amp;lsquo;Formosan Resolution&amp;rsquo; if this card is played by the US player.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/007/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/007/oracle/</guid>
+      <description>Remove up to 3 USA influence from Western Europe. Do not remove more than 2 from any single country.
+(This card instead does nothing during 083-L The Iron Lady.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/007/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/007/printed/</guid>
+      <description>Unplayable as an event if &amp;lsquo;The Iron Lady&amp;rsquo; is in effect.
+Remove US Influence in Western Europe by a total of 3 Influence points, removing no more than 2 per country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/008/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/008/oracle/</guid>
+      <description>Remove all US influence from Cuba.
+Place USSR influence in Cuba sufficient for control.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/008/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/008/printed/</guid>
+      <description>Remove all US Influence in Cuba. USSR gains sufficient Influence in Cuba for Control.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/009/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/009/oracle/</guid>
+      <description>Place 2 USSR influence in Vietnam.
+Until end of turn, the operations value of any card played by USSR is 1 greater if all its operations are performed in Southeast Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/009/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/009/printed/</guid>
+      <description>Add 2 USSR Influence in Vietnam. For the remainder of the turn, the Soviet player may add 1 Operations point to any card that uses all points in Southeast Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/010/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/010/oracle/</guid>
+      <description>USA may discard a card with an operations value of 3 or greater. If USA does not, remove all USA influence from West Germany.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/010/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/010/printed/</guid>
+      <description>Unless US Player immediately discards a &amp;lsquo;3&amp;rsquo; or more value Operations card, eliminate all US Influence in West Germany.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/011/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/011/oracle/</guid>
+      <description>Award USSR 2 military operations.
+Roll a die and subtract 1 for each USA-controlled country adjacent to South Korea. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from South Korea, and place USSR influence there equal to the amount removed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/011/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/011/printed/</guid>
+      <description>North Korea invades South Korea. Roll one die and subtract 1 for every US Controlled country adjacent to South Korea. USSR Victory on modified die roll 4-6. USSR adds 2 to Military Ops Track.
+Effects of Victory: USSR gains 2 VP and replaces all US Influence in South Korea with USSR Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/012/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/012/oracle/</guid>
+      <description>Remove all USA influence from Romania.
+Place USSR influence in Romania sufficient for control.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/012/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/012/printed/</guid>
+      <description>Remove all US Influence from Romania. USSR gains sufficient Influence in Romania for Control.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/013/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/013/oracle/</guid>
+      <description>Award USSR 2 military operations.
+Roll a die and subtract 1 for each of Israel and its adjacent countries that is USA-controlled. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from Israel, and place USSR influence there equal to the amount removed.
+(This card instead does nothing during 065-M Camp David Accords.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/013/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/013/printed/</guid>
+      <description>A Pan-Arab Coalition invades Israel. Roll one die and subtract 1 for US Control of Israel and every US-controlled country adjacent to Israel. USSR Victory on modified die roll 4-6. USSR adds 2 to Military Ops Track.
+Effects of Victory: USSR gains 2 VP and replaces all US Influence in Israel with USSR Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/014/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/014/oracle/</guid>
+      <description>Place 1 USSR influence in each of up to 4 countries in Eastern Europe that are not USA-controlled.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/014/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/014/printed/</guid>
+      <description>Add 1 USSR Influence in each of four non-US Controlled countries in Eastern Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/015/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/015/oracle/</guid>
+      <description>Remove USA influence from Egypt equal to half, rounded up, of the USA influence there.
+Place 2 USSR influence in Egypt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/015/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/015/printed/</guid>
+      <description>Add 2 USSR Influence in Egypt. Remove half (rounded up) of the US Influence in Egypt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/016/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/016/oracle/</guid>
+      <description>Perform one (USSR&amp;rsquo;s choice):
+ Remove all USA influence from up to 4 countries in Eastern Europe. Place 5 USSR influence in Eastern Europe. Do not place more than 2 influence in any single country.  Ongoing — 021-E NATO can now be resolved.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/016/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/016/printed/</guid>
+      <description>Remove all US Influence from four countries in Eastern Europe, or add 5 USSR Influence in Eastern Europe, adding no more than 2 per country. Allows play of NATO.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/017/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/017/oracle/</guid>
+      <description>Remove up to 2 USA influence from France.
+Place 1 USSR influence in France.
+Ongoing — NATO does not apply to France.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/017/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/017/printed/</guid>
+      <description>Remove 2 US Influence in France, add 1 USSR Influence. Cancels effects of NATO for France.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/018/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/018/oracle/</guid>
+      <description>Advance your Space Race marker one step.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/018/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/018/printed/</guid>
+      <description>Advance player&amp;rsquo;s Space Race marker one box.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/019/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/019/oracle/</guid>
+      <description>Remove all USSR influence from an uncontrolled country in Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/019/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/019/printed/</guid>
+      <description>Remove all USSR Influence markers in one uncontrolled country in Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/020/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/020/oracle/</guid>
+      <description>Perform one (enemy&amp;rsquo;s choice):
+ Roll a die and add 2. The enemy rolls a die. Repeat both rolls until one side has a greater result. Award 2 VP to that side. Decrement DEFCON. Conduct operations with this card as though its operations value were 4.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/020/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/020/printed/</guid>
+      <description>Player sponsors Olympics. Opponent may participate or boycott. If Opponent participates, each player rolls one die, with the sponsor adding 2 to his roll. High roll gains 2 VP. Reroll ties. If Opponent boycotts, degrade DEFCON one level and the Sponsor may Conduct Operations as if they played a 4 Ops card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/021/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/021/oracle/</guid>
+      <description>This card cannot be implemented except during 016-E Warsaw Pact Formed or 023-E Marshall Plan.
+Ongoing — USSR cannot choose USA-controlled countries in Europe for coups, realignments, or 036-M Brush War.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/021/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/021/printed/</guid>
+      <description>Play after &amp;lsquo;Marshall Plan&amp;rsquo; or &amp;lsquo;Warsaw Pact.&#39;
+USSR player may no longer make Coup or Realignment rolls in any US Controlled countries in Europe.
+US Controlled countries in Europe may not be attacked by play of the Brush War event.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/022/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/022/oracle/</guid>
+      <description>Choose one of Yugoslavia, Romania, Bulgaria, Hungary, or Czechoslovakia. Place USA influence in the chosen country sufficient to equal USSR influence there.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/022/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/022/printed/</guid>
+      <description>Add sufficient US Influence in either Yugoslavia, Romania, Bulgaria, Hungary or Czechoslovakia to equal USSR Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/023/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/023/oracle/</guid>
+      <description>Place 1 USA influence in each of up to 7 countries in Western Europe that are not USSR-controlled.
+Ongoing — 021-E NATO can not be resolved.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/023/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/023/printed/</guid>
+      <description>Allows play of NATO.
+Add one US Influence in each of seven non-USSR Controlled Western European countries.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/024/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/024/oracle/</guid>
+      <description>Gain 2 military operations.
+Choose India or Pakistan.
+Roll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/024/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/024/printed/</guid>
+      <description>India or Pakistan invades the other (player&amp;rsquo;s choice). Roll one die and subtract 1 for every opponent-controlled country adjacent to the target of the invasion. Player Victory on modified die roll of 4-6. Player adds 2 to Military Ops Track.
+Effects of Victory: Player gains 2 VP and replaces all opponent&amp;rsquo;s Influence in target country with his Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/025/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/025/oracle/</guid>
+      <description>Until end of turn, the operations value of any card played by USA is 1 greater. A card&amp;rsquo;s operations value cannot exceed 4 in this way.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/025/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/025/printed/</guid>
+      <description>All further Operations cards played by US this turn add one to their value (to a maximum of 4).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/026/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/026/oracle/</guid>
+      <description>Until end of turn, USSR plays with its hand revealed.
+USA conducts operations with this card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/026/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/026/printed/</guid>
+      <description>USSR reveals hand this turn.
+Then the US may Conduct Operations as if they played a 1 Op card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/027/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/027/oracle/</guid>
+      <description>Place USA influence in Japan sufficient for control.
+Ongoing — USSR cannot choose Japan for coups or realignments.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/027/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/027/printed/</guid>
+      <description>US gains sufficient Influence in Japan for Control.
+USSR may no longer may Coup or Realignment rolls in Japan.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/028/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/028/oracle/</guid>
+      <description>Remove up to 4 USA influence from France, the United Kingdom, and Israel. Do not remove more than 2 from any single country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/028/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/028/printed/</guid>
+      <description>Remove a total of 4 US Influence from France, the United Kingdom and Israel. Remove no more than 2 Influence per country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/029/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/029/oracle/</guid>
+      <description>Remove 1 USSR influence from each of up to 3 countries in Eastern Europe.
+If it is the Late War, instead remove up to 2 USSR influence from those countries.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/029/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/029/printed/</guid>
+      <description>In Early or Mid War: Remove 1 USSR Influence from three countries in Eastern Europe.
+In Late War: Remove 2 USSR Influence from three countries in Eastern Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/030/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/030/oracle/</guid>
+      <description>Place 1 USSR influence in each of up to 4 countries in Africa or Southeast Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/030/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/030/printed/</guid>
+      <description>Add one USSR Influence in each of any four African and/or SE Asian countries.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/031/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/031/oracle/</guid>
+      <description>Until end of turn, the operations value of any card played by the enemy is 1 less. A card&amp;rsquo;s operations value cannot be reduced below 1 in this way.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/031/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/031/printed/</guid>
+      <description>All further Operations cards played by your opponent this turn are -1 to their value (to a minimum value of 1 Op).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/032/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/032/oracle/</guid>
+      <description>If this card is a headline, it does nothing.
+Otherwise, discard a card aligned with the enemy. Conduct operations with that card.
+(That card is not resolved. Neutral cards are aligned with neither side.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/032/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/032/printed/</guid>
+      <description>Play this card simultaneously with a card containing your opponent&amp;rsquo;s associated Event. The Event is canceled, but you may use its Operations value to Conduct Operations. The canceled event card returns to the discard pile. May not be played during headline phase.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/033/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/033/oracle/</guid>
+      <description>Choose any number of countries. Remove up to 4 USSR influence from among them.
+Place USSR influence equal to the amount removed, divided among any number of countries not USA-controlled. Do not place more than 2 influence in any single country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/033/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/033/printed/</guid>
+      <description>USSR may relocate up to 4 Influence points to non-US controlled countries.
+No more than 2 influence may be placed in the same country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/034/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/034/oracle/</guid>
+      <description>Gain VP equal to DEFCON minus 2.
+Increment DEFCON twice.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/034/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/034/printed/</guid>
+      <description>Player earns VPs equal to current DEFCON level minus 2, then improve DEFCON two levels.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/035/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/035/oracle/</guid>
+      <description>Ongoing — When Asia is scored, if Taiwan is USA-controlled, Taiwan is a battleground during that scoring.
+(Taiwan is not a battleground at any other time.)
+(006-E The China Card can end 035-E Formosan Resolution.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/035/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/035/printed/</guid>
+      <description>Taiwan shall be treated as a Battleground country for scoring purposes, if the US controls Taiwan when the Asia Scoring Card is played or during Final Scoring at the end of Turn 10. Taiwan is not a Battleground country for any other game purpose. This card is discarded after US play of The China Card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/036/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/036/oracle/</guid>
+      <description>Gain 3 military operations.
+Choose a country with stability less than 3. Roll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 1 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/036/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/036/printed/</guid>
+      <description>Attack any country with a stability of 1 or 2. Roll a die and subtract 1 for every adjacent enemy controlled country. Success on 3-6. Player adds 3 to his Military OPs Track.
+Effects of Victory: Player gains 1 VP and replaces all opponent&amp;rsquo; Influence with his Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/037/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/037/oracle/</guid>
+      <description>Score Central America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/037/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/037/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/038/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/038/oracle/</guid>
+      <description>Score Southeast Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/038/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/038/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/039/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/039/oracle/</guid>
+      <description>If the active side&amp;rsquo;s MilOps marker is ahead of its enemy&amp;rsquo;s, award the active side 1 VP.
+If the active side&amp;rsquo;s MilOps marker is ahead of its enemy&amp;rsquo;s and is on a step that meets or exceeds DEFCON in value, award that side 2 additional VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/039/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/039/printed/</guid>
+      <description>Compare each player&amp;rsquo;s status on the Military Operations Tracks. If Phasing Player has more MIlitary Operations points, he scores 1 VP. If Phasing Player has more Military Operations points and has met the Required Military Operations amount, he scores 3 VP instead.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/040/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/040/oracle/</guid>
+      <description>Set DEFCON to 2.
+Until end of turn, if the enemy launches a coup, that side loses the game.
+Until end of turn, at any time, USSR may remove 2 friendly influence from Cuba and USA may remove 2 friendly influence from either West Germany or Turkey; if either side removes friendly influence this way, all of this card&amp;rsquo;s effects end.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/040/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/040/printed/</guid>
+      <description>Set DEFCON to Level 2. Any further Coup attempt by your opponent this turn, anywhere on the board, will result in Global Thermonuclear War. Your opponent will lose the game. This event may be canceled at any time if the USSR player removes two Influence from Cuba or the US player removes 2 Influence from either West Germany or Turkey.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/041/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/041/oracle/</guid>
+      <description>Until end of turn, when USA launches a coup in a battleground, do not decrement DEFCON.
+(This does not prevent USA from losing the game to 040-M Cuban Missile Crisis.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/041/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/041/printed/</guid>
+      <description>US Coup attempts in Battleground Countries do not affect the DEFCON tract for the remainder of the turn (does not affect Cuban Missile Crisis).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/042/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/042/oracle/</guid>
+      <description>End the effects of 106-E NORAD.
+Ongoing — USA may only play scoring cards or cards from hand with operations values of 2 or greater. If USA has no such cards in hand, USA must choose to play no card in an action round.
+Ongoing — Whenever USA plays a card with an operations value, instead of choosing a use for that card, USA discards it and rolls a die. On a result of 4 or less, all of this card&amp;rsquo;s effects end.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/042/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/042/printed/</guid>
+      <description>On next action round, US player must discard an Operations card worth 2 or more and roll 1-4 to cancel this event. Repeat each US player Action round until successful or no appropriate cards remain. If out of appropriate cards, the US player may only play scoring cards until the next turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/043/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/043/oracle/</guid>
+      <description>Increment DEFCON twice.
+Choose a card in the discard pile other than a scoring card and add it to your hand.
+Until end of turn, when any side launches a coup, subtract 1 from that side&amp;rsquo;s die roll.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/043/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/043/printed/</guid>
+      <description>Improve DEFCON two levels.
+Further Coup attempts incur -1 die roll modifier for both players for the remainder of the turn.
+Player may sort through discard pile and reclaim one non-scoring card, after revealing it to their opponent.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/044/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/044/oracle/</guid>
+      <description>Ongoing — USSR may only play scoring cards or cards from hand with operations values of 2 or greater. If USSR has no such cards in hand, USSR must choose to play no card in an action round.
+Ongoing — Whenever USSR plays a card with an operations value, instead of choosing a use for that card, USSR discards it and rolls a die. On a result of 4 or less, all of this card&amp;rsquo;s effects end.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/044/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/044/printed/</guid>
+      <description>On next action round, USSR player must discard an Operations card worth 2 or more and roll 1-4 to cancel this event. Repeat each USSR player Action Round until successful or no appropriate cards remain. If out of appropriate cards, the USSR player may only play scoring cards until the next turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/045/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/045/oracle/</guid>
+      <description>Each side rolls a die and adds 1 for each region other than Western Europe, Eastern Europe, and Southeast Asia in which it has domination or control.
+If either side&amp;rsquo;s result is greater, award that side 2 VP and that side may increment or decrement DEFCON up to once.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/045/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/045/printed/</guid>
+      <description>Both players roll a die. Each adds 1 for each Region they Dominate or Control. High roller gains 2 VP and may move DEFCON marker one level in either direction. Do not reroll ties.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/046/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/046/oracle/</guid>
+      <description>Gain 5 military operations.
+Move the DEFCON marker to any step of the DEFCON track.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/046/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/046/printed/</guid>
+      <description>Set the DEFCON at any level you want (1-5). This event counts as 5 Military Operations for the purpose of required Military Operations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/047/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/047/oracle/</guid>
+      <description>Place 2 influence in a country in Central America or South America.
+Choose a country in Central America or South America; you may launch a coup in that country using this card, but you gain no military operations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/047/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/047/printed/</guid>
+      <description>Place 2 Influence in any one Central or South American country.
+Then you may make a free Coup attempt or Realignment roll in one of these regions (using this card&amp;rsquo;s Operations Value).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/048/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/048/oracle/</guid>
+      <description>If USA controls more battlegrounds than USSR, award USA 2 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/048/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/048/printed/</guid>
+      <description>If the US controls more Battleground countries than the USSR, poke opponent in chest and gain 2 VP!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/049/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/049/oracle/</guid>
+      <description>The enemy chooses a card from among the cards in its hand which have the greatest operations value. If the chosen card is aligned with the enemy, you conduct operations with that card. Otherwise, you resolve that card.
+Then, put this card in the enemy&amp;rsquo;s hand. The enemy must choose to play this card the next time they complete an action round. The enemy must choose to conduct operations with this card when they play it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/049/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/049/printed/</guid>
+      <description>Exchange this card for your opponent&amp;rsquo;s highest valued Operations card in his hand. If two or more cards are tied, opponent chooses.
+If the exchanged card contains your event, or an event applicable to both players, it occurs immediately. If it contains opponent&amp;rsquo;s event, use Operations value without triggering event. Opponent must use this card for Operations during his next action round.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/050/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/050/oracle/</guid>
+      <description>Decrement DEFCON.
+When USA next plays a card in an action round, unless that card is 032-E UN Intervention and USA chooses to resolve it, award USSR 3 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/050/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/050/printed/</guid>
+      <description>Unless UN Intervention is played as an Event on the US player&amp;rsquo;s next round, USSR gains 3 VP prior to any US VP award.
+Degrade DEFCON one level.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/051/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/051/oracle/</guid>
+      <description>Until end of turn, the operations value of any card played by USSR is 1 greater. A card&amp;rsquo;s operations value cannot exceed 4 in this way.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/051/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/051/printed/</guid>
+      <description>All further Operations cards played by the USSR this turn increase their OPs value by one (to a maximum of 4).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/052/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/052/oracle/</guid>
+      <description>Place 2 USSR influence in each of SE African States and Angola.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/052/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/052/printed/</guid>
+      <description>Add 2 USSR Influence in both the SE African States and Angola.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/053/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/053/oracle/</guid>
+      <description>Place 1 USSR influence in South Africa.
+Perform one (USSR&amp;rsquo;s choice):
+ Place 1 USSR influence in South Africa. Place 2 USSR influence divided among any number of countries adjacent to South Africa.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/053/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/053/printed/</guid>
+      <description>USSR either adds 1 Influence in South Africa or adds 1 Influence in South Africa and 2 Influence in any countries adjacent to South Africa.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/054/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/054/oracle/</guid>
+      <description>Place 2 USSR influence in Chile.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/054/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/054/printed/</guid>
+      <description>USSR receives 2 Influence in Chile.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/055/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/055/oracle/</guid>
+      <description>Award USSR 1 VP.
+Place 1 USSR influence in West Germany.
+Ongoing — NATO does not apply to West Germany.
+(This card instead does nothing during 096-L Tear Down This Wall.)
+(096-L Tear Down This Wall ends this event.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/055/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/055/printed/</guid>
+      <description>USSR gains 1 VP.
+USSR receives 1 Influence in West Germany.
+Cancels NATO for West Germany.
+This event unplayable and/or canceled by &amp;lsquo;Tear Down This Wall.&#39;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/056/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/056/oracle/</guid>
+      <description>Choose 2 of Sudan, Iran, Iraq, Egypt, Libya, Saudi Arabia, and Jordan.
+Remove all USA influence from the chosen countries.
+(This card instead does nothing during 110-L AWACS Sale to Saudis.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/056/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/056/printed/</guid>
+      <description>Remove all US Influence in two of the following countries: Sudan, Iran, Iraq, Egypt, Libya, Saudi Arabia, Syria, Jordan.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/057/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/057/oracle/</guid>
+      <description>Increment DEFCON.
+Conduct operations with this card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/057/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/057/printed/</guid>
+      <description>Improve DEFCON one level.
+Then player may Conduct Operations as if they played a 4 Ops card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/058/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/058/oracle/</guid>
+      <description>If USSR holds 006-E The China Card, award USSR 1 VP.
+USSR now holds 006-E The China Card. Turn it faceup if it was taken from USA.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/058/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/058/printed/</guid>
+      <description>If the US has The China Card, claim it face up and available for play. If the USSR already has it, USSR gains 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/059/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/059/oracle/</guid>
+      <description>Ongoing — When USA resolves a war card, award USSR 2 VP.
+(The war cards are 011-E, 013-E, 024-E, 036-M, and 102-L.)
+(This card instead does nothing during 097-L An Evil Empire.)
+(097-L An Evil Empire ends this event.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/059/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/059/printed/</guid>
+      <description>USSR gains 2 VP for every subsequently US played &amp;ldquo;war card&amp;rdquo; (played as an event or Operations) unless played on the space race. War Cards: Arab-Israeli War, Korean War, Brush War, Indo-Pakistani War or Iran-Iraq War.
+This event canceled by &amp;lsquo;An Evil Empire&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/060/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/060/oracle/</guid>
+      <description>Award USSR 1 VP.
+Until end of turn, when either side resolves 032-E UN Intervention, award USSR 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/060/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/060/printed/</guid>
+      <description>USSR gains 1 VP.
+If UN Intervention played later this turn as an Event, either by US or USSR, gain an additional 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/061/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/061/oracle/</guid>
+      <description>For each of Egypt, Iran, Libya, Saudi Arabia, Iraq, Gulf States, and Venezuela which USSR controls, award USSR 1 VP.
+(This card instead does nothing during 086-L North Sea Oil.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/061/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/061/printed/</guid>
+      <description>USSR gains 1 VP for each of the following countries he controls:
+Egypt, Iran, Libya, Saudi Arabia, Iraq, Gulf States, and Venezuela.
+Unplayable as an event if &amp;lsquo;North Sea Oil&amp;rsquo; is in effect.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/062/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/062/oracle/</guid>
+      <description>USA declares each card in its hand.
+USSR conducts operations with this card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/062/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/062/printed/</guid>
+      <description>US Player reveals his hand.
+Then the USSR may Conduct Operations as if they played a 1 Op card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/063/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/063/oracle/</guid>
+      <description>Place 1 USA influence in each of up to 4 countries in Africa or Southeast Asia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/063/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/063/printed/</guid>
+      <description>Add 1 US Influence in each of four different African and/or Southeast Asian countries.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/064/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/064/oracle/</guid>
+      <description>Place 1 USA influence in each of Panama, Costa Rica, and Venezuela.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/064/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/064/printed/</guid>
+      <description>Add 1 US Influence in Panama, Costa Rica, and Venezuela.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/065/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/065/oracle/</guid>
+      <description>Award USA 1 VP.
+Place 1 USA influence in each of Israel, Jordan, and Egypt.
+Ongoing — 013-E Arab-Israeli War does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/065/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/065/printed/</guid>
+      <description>US gains 1 VP.
+US receives 1 Influence in Israel, Jordan and Egpyt.
+&amp;lsquo;Arab-Israeli War&amp;rsquo; event no longer playable.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/066/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/066/oracle/</guid>
+      <description>Place 1 USA influence in each of up to 3 countries which contain no influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/066/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/066/printed/</guid>
+      <description>US may add 1 Influence in three countries that currently contain no Influence from either power.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/067/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/067/oracle/</guid>
+      <description>USSR chooses a card in its hand at random and declares it.
+Perform one (USA&amp;rsquo;s choice):
+ USA plays the declared card. USA conducts operations with this card.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/067/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/067/printed/</guid>
+      <description>Randomly choose one card from USSR hand. Play it or return it. If Soviet player has no card, or returned, use this card to conduct Operations normally.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/068/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/068/oracle/</guid>
+      <description>Remove 2 USSR influence from Poland, then place 1 USA influence there.
+Ongoing — 101-L Solidarity can now be resolved.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/068/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/068/printed/</guid>
+      <description>Remove 2 USSR Influence in Poland and then add 1 US Influence in Poland.
+Allows play of &amp;lsquo;Solidarity&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/069/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/069/oracle/</guid>
+      <description>Until end of turn, when you launch a coup in a country in Central America or South America, add 1 to the die roll.
+Until end of turn, when the enemy launches a coup in a country in Central America or South America, subtract 1 from the die roll.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/069/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/069/printed/</guid>
+      <description>All of the player&amp;rsquo;s Coup attempts in Central and South America are +1 for the remainder of the turn, while all opponent&amp;rsquo;s Coup attempts are -1 for the remainder of the turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/070/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/070/oracle/</guid>
+      <description>Place 2 USA influence in any combination of countries in Central America and South America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/070/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/070/printed/</guid>
+      <description>Add 2 US Influence in Central America and/or South America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/071/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/071/oracle/</guid>
+      <description>If USA holds 006-E The China Card, award USA 2 VP.
+USA now holds 006-E The China Card. Turn it facedown if it was taken from USSR.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/071/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/071/printed/</guid>
+      <description>If US has The China Card, gain 2 VP. Otherwise, US player receives The China Card now, face down and unavailable for immediate play.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/072/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/072/oracle/</guid>
+      <description>Remove all USSR influence from Egypt, then place 1 USA influence there.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/072/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/072/printed/</guid>
+      <description>Remove all USSR Influence in Egypt and add one US Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/073/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/073/oracle/</guid>
+      <description>When either Asia or the Middle East is scored, if Final Scoring is not ongoing, USA chooses a USSR-controlled battleground in that region. Score the region as though the chosen country did not exist. Then discard this card.
+(From the time this card is resolved until this card instructs that it is to be discarded, instead of discarding it, place it faceup in front of USA.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/073/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/073/printed/</guid>
+      <description>Play in front of US player. During the next scoring of the Middle East or Asia (whichever comes first), subtract one Battleground country from USSR total, then put this card in the discard pile. Does not count for Final Scoring at the end of Turn 10.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/074/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/074/oracle/</guid>
+      <description>Remove 4 USSR influence from any combination of countries not in Europe. Do not remove more than 2 influence from any single country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/074/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/074/printed/</guid>
+      <description>Remove 4 USSR Influence from non-European countries. No more than 2 may be removed from any one country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/075/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/075/oracle/</guid>
+      <description>Place 3 USSR influence in Central America. Do not place more than 2 influence in any single country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/075/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/075/printed/</guid>
+      <description>Add 3 USSR Influence in Central America, no more than 2 per country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/076/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/076/oracle/</guid>
+      <description>If USA holds 006-E The China Card, place 4 USA influence in Asia. Do not place more than 2 influence in any single country.
+USA now holds 006-E The China Card. Turn it faceup if it was taken from USSR.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/076/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/076/printed/</guid>
+      <description>If the USSR has The China Card, claim it face up and available for play. If the US already has The China Card, add 4 US Influence in Asia, no more than 2 per country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/077/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/077/oracle/</guid>
+      <description>USA chooses any number of cards in its hand. USA discards those cards, then draws a number of cards equal to the number discarded this way.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/077/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/077/printed/</guid>
+      <description>US player may discard up to entire hand (including Scoring cards) and draw replacements from the deck. The number of cards discarded must be decided prior to drawing any replacements.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/078/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/078/oracle/</guid>
+      <description>For each USA-controlled battleground in Central America or South America, award USA 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/078/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/078/printed/</guid>
+      <description>US gains 1 VP for each US controlled Battleground country in Central America and South America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/079/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/079/oracle/</guid>
+      <description>Score Africa.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/079/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/079/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/080/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/080/oracle/</guid>
+      <description>If your Space Race marker is behind the enemy&amp;rsquo;s, advance your Space Race marker twice. Do not claim any VP award for the first of these advances.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/080/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/080/printed/</guid>
+      <description>If you are behind on the Space Race track, play this card to move your marker two boxes forward on the Space Race Track, gaining the VP value of the second box only.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/081/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/081/oracle/</guid>
+      <description>Score South America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/081/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/081/printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/082/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/082/oracle/</guid>
+      <description>Remove all USA influence from Iran, then place 2 USSR influence there.
+Ongoing — If USA would choose and discard a card due to the effects of 092-L Terrorism, USA chooses and discards 2 cards instead.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/082/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/082/printed/</guid>
+      <description>Remove all US Influence in Iran. Add 2 USSR Influence in Iran.
+Doubles effect of Terrorism card against US.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/083/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/083/oracle/</guid>
+      <description>Award USA 1 VP. Remove all USSR influence from U.K..
+Place 1 USSR influence in Argentina.
+Ongoing — 007-E Socialist Governments does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/083/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/083/printed/</guid>
+      <description>US gains 1 VP.
+Add 1 USSR Influence in Argentina. Remove all USSR Influence from UK.
+Socialist Governments event no longer playable.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/084/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/084/oracle/</guid>
+      <description>Award USA an amount of VP equal to half the USSR influence in Libya, rounded down.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/084/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/084/printed/</guid>
+      <description>US gains 1 VP for every 2 USSR influence in Libya.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/085/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/085/oracle/</guid>
+      <description>If USA&amp;rsquo;s Space Race marker is ahead of USSR&amp;rsquo;s, USA chooses a card in the discard pile other than a scoring card and resolves that card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/085/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/085/printed/</guid>
+      <description>If the US is ahead on the Space Race track, play this card to search through the discard pile for a non-scoring card of your choice. Event occurs immediately.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/086/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/086/oracle/</guid>
+      <description>USA must complete 8 action rounds this turn. In its 8th action round, USA may decline to play a card.
+Ongoing — 061-M OPEC does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/086/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/086/printed/</guid>
+      <description>OPEC event is no longer playable.
+US may play 8 cards this turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/087/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/087/oracle/</guid>
+      <description>Perform one (USSR&amp;rsquo;s choice):
+ Place 4 USSR influence in Europe. If USSR has more VP than USA, place 6 USSR influence in Europe.  Do not place more than 2 influence in a single country.
+Ongoing — USSR may not choose any country in Europe when launching a coup.
+Ongoing — After USSR resolves 090-L Glasnost, USSR may spread influence or perform realignments with that card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/087/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/087/printed/</guid>
+      <description>Add 4 Influence in Europe (no more than 2 per country). If USSR is ahead of US in VP, then 6 Influence may be added instead.
+USSR may no longer conduct Coup attempts in Europe.
+Improves effect of &amp;lsquo;Glasnost&amp;rsquo; event.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/088/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/088/oracle/</guid>
+      <description>Remove all USA influence from Lebanon.
+Remove 2 USA influence from the Middle East.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/088/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/088/printed/</guid>
+      <description>Remove all US Influence in Lebanon plus remove 2 additional US Influence from anywhere in the Middle East.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/089/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/089/oracle/</guid>
+      <description>Decrement DEFCON, then award USA 2 VP.
+If South Korea is USA-controlled, USA may spread influence or perform realignments with this card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/089/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/089/printed/</guid>
+      <description>Degrade DEFCON one level. US gains 2 VP.
+If South Korea is US Controlled, then the US may place Influence or attempt Realignments as if they played a 4 Ops card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/090/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/090/oracle/</guid>
+      <description>Increment DEFCON, then award USSR 2 VP.
+(087-L The Reformer allows USSR to spread influence or perform realignments when this card is resolved.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/090/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/090/printed/</guid>
+      <description>USSR gains 2 VP.
+Improve DEFCON one level.
+If The Reformer is in effect, then the USSR may place Influence or attempt Realignments as if they played a 4 Ops card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/091/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/091/oracle/</guid>
+      <description>Remove all USA influence from Nicaragua.
+Choose a country adjacent to Nicaragua; you may launch a coup in that country using this card, but you gain no military operations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/091/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/091/printed/</guid>
+      <description>Remove all US Influence from Nicaragua. Then USSR may make one free Coup attempt (with this card&amp;rsquo;s Operations value) in a country adjacent to Nicaragua.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/092/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/092/oracle/</guid>
+      <description>The enemy chooses a card from its hand at random and discards that card.
+(082-L Iranian Hostage Crisis causes USA to discard 2 cards instead of 1.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/092/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/092/printed/</guid>
+      <description>Opponent must randomly discard one card. If played by USSR and Iranian Hostage Crisis is in efect, the US player must randomly discard two cards.
+(Events on discard do not occur.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/093/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/093/oracle/</guid>
+      <description>Until end of turn, whenever either side performs a realignment, subtract 1 from the USA die roll.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/093/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/093/printed/</guid>
+      <description>All US Realignment rolls have a -1 die roll modifier for the remainder of the turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/094/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/094/oracle/</guid>
+      <description>USA names a region. Until end of turn, USSR may not spread influence in any country in that region.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/094/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/094/printed/</guid>
+      <description>The US player may designate one Region. For the remainder of the turn the USSR may not add additional Influence to that Region by the play of Operations Points via placing Influence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/095/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/095/oracle/</guid>
+      <description>USA may discard a card with an operations value of 3 or greater. If USA does not, USSR chooses 2 countries in South America and places in each chosen country influence equal to the amount of USSR influence in that country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/095/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/095/printed/</guid>
+      <description>Unless the US Player immediately discards a &amp;lsquo;3&amp;rsquo; or greater Operations card, double USSR Influence in two countries South America.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/096/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/096/oracle/</guid>
+      <description>Place 3 USA influence in East Germany.
+USA may launch a coup or perform realignments in Europe using this card, ignoring DEFCON restrictions, but gains no military operations.
+End 055-M Willy Brandt.
+Ongoing — 055-M Willy Brandt does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/096/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/096/printed/</guid>
+      <description>Cancels/prevents Willy Brandt.
+Add 3 US Influence in East Germany.
+Then US may make a free Coup attempt or Realignment rolls in Europe using this card&amp;rsquo;s Ops Value.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/097/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/097/oracle/</guid>
+      <description>Award USA 1 VP.
+End 059-M Flower Power.
+Ongoing — 059-M Flower Power does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/097/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/097/printed/</guid>
+      <description>Cancels/prevents Flower Power.
+US gains 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/098/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/098/oracle/</guid>
+      <description>Until end of turn, USA plays with its hand revealed.
+USSR chooses a card from USA&amp;rsquo;s hand. USA discards that card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/098/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/098/printed/</guid>
+      <description>US player exposes his hand to USSR player for remainder of turn. USSR then chooses one card from US hand; this card is discarded.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/099/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/099/oracle/</guid>
+      <description>Award USSR 1 VP.
+Remove 1 USA influence from each of up to 3 countries in Western Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/099/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/099/printed/</guid>
+      <description>USSR gains 1 VP.
+Remove 1 US Influence from up to three countries in Western Europe.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/100/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/100/oracle/</guid>
+      <description>If DEFCON is 2, you may award the enemy 6 VP.
+If you do, the game ends. The side with more VP wins.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/100/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/100/printed/</guid>
+      <description>If DEFCON Status 2, you may immediately end the game (without Final Scoring Phase) after giving opponent 6 VPs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/101/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/101/oracle/</guid>
+      <description>Place 3 USA influence in Poland.
+If 068-M John Paul II Elected Pope is not ongoing, this card instead does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/101/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/101/printed/</guid>
+      <description>Playable as an event only if &amp;lsquo;John Paul II Elected Pope&amp;rsquo; is in effect.
+Add 3 US Influence in Poland.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/102/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/102/oracle/</guid>
+      <description>Gain 2 military operations.
+Choose Iran or Iraq.
+Roll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/102/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/102/printed/</guid>
+      <description>Iran or Iraq invades the other (player&amp;rsquo;s choice). Roll one die and subtract 1 for every opponent-controlled country adjacent to target of invasion. Player Victory on modified die roll of 4-6. Player adds 2 to Military Ops Track.
+Effects of Victory: Player gains 2 VP and replaces opponent&amp;rsquo;s Influence in target country with his own.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/103/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/103/oracle/</guid>
+      <description>If this card is a headline, it is valued above any other card and has the text &amp;ldquo;discard the USSR headline.&amp;rdquo;
+If this card is played by USSR in an action round, it has the text &amp;ldquo;award USA 1 VP.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/103/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/103/printed/</guid>
+      <description>Play in Headline Phase to cancel USSR Headline event, including Scoring Card. Canceled card returns to Discard Pile.
+If Defectors played by USSR during Soviet action round, US gains 1 VP (unless played on the Space Race).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/104/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/104/oracle/</guid>
+      <description>If it is the Late War, this card does nothing.
+Otherwise, USA reveals all scoring cards in their hand. USSR places 1 influence in a country in a region named on a card revealed this way.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/104/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/104/printed/</guid>
+      <description>The US player exposes all scoring cards in their hand. The USSR player may then add 1 Influence in any single region named on one of these scoring cards (USSR choice). Cannot be played as an event in Late War.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/105/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/105/oracle/</guid>
+      <description>If the United Kingdom is not USA-controlled, this card does nothing.
+Otherwise, perform one (USA&amp;rsquo;s choice):
+ Place 1 USA influence in any country adjacent to the United Kingdom. If 021-E NATO is in effect, place 2 USA influence in any country in Western Europe and award USA 2 VP.  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/105/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/105/printed/</guid>
+      <description>If US is US controlled but NATO is not in effect, US adds 1 Influence to any country adjacent to the UK.
+If UK is US controlled and NATO is in effect, US adds 2 Influence to any Western European country and gains 2 VPs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/106/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/106/oracle/</guid>
+      <description>Ongoing — After either side completes an action round, if DEFCON became 2 during that action round, USA may place 1 influence in any country containing USA influence.
+(042-M Quagmire ends this event.)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/106/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/106/printed/</guid>
+      <description>If the US controls Canada, the US may place 1 Influence in any country already containing US Influence at the conclusion of any Action Round in which the DEFCON marker moves to the &amp;lsquo;2&amp;rsquo; box. This event canceled by #42 Quagmire.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/107/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/107/oracle/</guid>
+      <description>USSR may launch a coup in a non-battleground country in Central America, South America, or Africa using this card.
+If any USA influence is removed this way, USSR may launch a coup in a different non-battleground country in Central America, South America, or Africa using this card.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/107/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/107/printed/</guid>
+      <description>USSR may immediately make a Coup attempt using this card&amp;rsquo;s Operations value against a non-battleground country in Central America, South America, or Africa.
+If the Coup removes any US Influence, USSR may make a second Coup attempt against a different target under the same restrictions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/108/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/108/oracle/</guid>
+      <description>If USA controls any country in the Middle East, USA looks at the top 5 cards of the draw pile. USA may discard any of these cards.
+If any card seen in this way was not discarded, shuffle the draw pile.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/108/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/108/printed/</guid>
+      <description>If the US controls at least one Middle East country, the US player draws the top 5 cards from the draw pile. They may reveal and then discard any or all of these drawn cards without triggering the Event. Any remaining drawn cards are returned to the draw deck, and it is reshuffled.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/109/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/109/oracle/</guid>
+      <description>Until end of turn, after USA launches a coup, award USSR 1 VP.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/109/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/109/printed/</guid>
+      <description>USSR receives 1 VP for each US coup attempt made for the remainder of the current turn.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/110/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/110/oracle/</guid>
+      <description>Place 2 USA influence in Saudi Arabia.
+Ongoing — 065-M Muslim Revolution does nothing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>twilight-oracle.github.io/cards/110/printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/cards/110/printed/</guid>
+      <description>US receives 2 Influence in Saudi Arabia. Muslim Revolution may no longer be played as an event.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>twilight-oracle.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>twilight-oracle.github.io/search/</guid>
+      <description>Search Syntax Entering words or numbers into the search bar will search for cards containing all of those words or numbers.
+remove 3 influence early war Enclosing a phrase in quotes will search for exactly that list of words.
+remove &amp;quot;3 influence&amp;quot; &amp;quot;early war&amp;quot; Combine search terms with &amp;ldquo;or&amp;rdquo; to search for either one or the other.
+(place or remove) 3 influence (&amp;quot;early war&amp;quot; or &amp;quot;mid war&amp;quot;) Modify search terms with &amp;ldquo;not&amp;rdquo; to filter out containing those terms.</description>
+    </item>
+    
+  </channel>
+</rss>

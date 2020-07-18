@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — When USA resolves a war card, award USSR 2 VP.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(The war cards are \u003ccode\u003e011-E\u003c/code\u003e, \u003ccode\u003e013-E\u003c/code\u003e, \u003ccode\u003e024-E\u003c/code\u003e, \u003ccode\u003e036-M\u003c/code\u003e, and \u003ccode\u003e102-L\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This card instead does nothing during \u003ccode\u003e097-L An Evil Empire\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(\u003ccode\u003e097-L An Evil Empire\u003c/code\u003e ends this event.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Flower Power*",
+  "number": 59,
+  "ops": 4,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/059/oracle/",
+  "plainContent": "Ongoing — When USA resolves a war card, award USSR 2 VP.\n(The war cards are 011-E, 013-E, 024-E, 036-M, and 102-L.)\n(This card instead does nothing during 097-L An Evil Empire.)\n(097-L An Evil Empire ends this event.)\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

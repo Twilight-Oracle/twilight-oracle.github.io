@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, USA plays with its hand revealed.\u003c/p\u003e\n\u003cp\u003eUSSR chooses a card from USA\u0026rsquo;s hand. USA discards that card.\u003c/p\u003e\n",
+  "name": "Aldrich Ames Remix*",
+  "number": 98,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/098/oracle/",
+  "plainContent": "Until end of turn, USA plays with its hand revealed.\nUSSR chooses a card from USA\u0026rsquo;s hand. USA discards that card.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

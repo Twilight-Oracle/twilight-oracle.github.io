@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIndia or Pakistan invades the other (player\u0026rsquo;s choice). Roll one die and subtract 1 for every opponent-controlled country adjacent to the target of the invasion. Player Victory on modified die roll of 4-6. Player adds 2 to Military Ops Track.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eEffects of Victory:\u003c/strong\u003e Player gains 2 VP and replaces all opponent\u0026rsquo;s Influence in target country with his Influence.\u003c/p\u003e\n",
+  "name": "Indo-Pakistani War",
+  "number": 24,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/024/printed/",
+  "plainContent": "India or Pakistan invades the other (player\u0026rsquo;s choice). Roll one die and subtract 1 for every opponent-controlled country adjacent to the target of the invasion. Player Victory on modified die roll of 4-6. Player adds 2 to Military Ops Track.\nEffects of Victory: Player gains 2 VP and replaces all opponent\u0026rsquo;s Influence in target country with his Influence.\n",
+  "side": "none",
+  "types": [
+    "war"
+  ],
+  "version": "printed"
+}

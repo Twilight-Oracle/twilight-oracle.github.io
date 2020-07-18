@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIncrement DEFCON twice.\u003c/p\u003e\n\u003cp\u003eChoose a card in the discard pile other than a scoring card and add it to your hand.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, when any side launches a coup, subtract 1 from that side\u0026rsquo;s die roll.\u003c/p\u003e\n",
+  "name": "SALT Negotiations*",
+  "number": 43,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/043/oracle/",
+  "plainContent": "Increment DEFCON twice.\nChoose a card in the discard pile other than a scoring card and add it to your hand.\nUntil end of turn, when any side launches a coup, subtract 1 from that side\u0026rsquo;s die roll.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

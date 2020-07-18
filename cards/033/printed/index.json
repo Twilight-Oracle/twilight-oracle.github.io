@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR may relocate up to 4 Influence points to non-US controlled countries.\u003c/p\u003e\n\u003cp\u003eNo more than 2 influence may be placed in the same country.\u003c/p\u003e\n",
+  "name": "De-Stalinization*",
+  "number": 33,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/033/printed/",
+  "plainContent": "USSR may relocate up to 4 Influence points to non-US controlled countries.\nNo more than 2 influence may be placed in the same country.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

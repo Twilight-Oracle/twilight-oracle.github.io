@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR gains 1 VP.\u003c/p\u003e\n\u003cp\u003eIf \u003cem\u003eUN Intervention\u003c/em\u003e played later this turn as an Event, either by US or USSR, gain an additional 1 VP.\u003c/p\u003e\n",
+  "name": "U2 Incident*",
+  "number": 60,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/060/printed/",
+  "plainContent": "USSR gains 1 VP.\nIf UN Intervention played later this turn as an Event, either by US or USSR, gain an additional 1 VP.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

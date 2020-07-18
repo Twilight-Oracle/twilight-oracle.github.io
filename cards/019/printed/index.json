@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all USSR Influence markers in one uncontrolled country in Europe.\u003c/p\u003e\n",
+  "name": "Truman Doctrine*",
+  "number": 19,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/019/printed/",
+  "plainContent": "Remove all USSR Influence markers in one uncontrolled country in Europe.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

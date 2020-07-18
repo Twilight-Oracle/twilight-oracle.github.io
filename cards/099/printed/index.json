@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR gains 1 VP.\u003c/p\u003e\n\u003cp\u003eRemove 1 US Influence from up to three countries in Western Europe.\u003c/p\u003e\n",
+  "name": "Pershing II Deployed*",
+  "number": 99,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/099/printed/",
+  "plainContent": "USSR gains 1 VP.\nRemove 1 US Influence from up to three countries in Western Europe.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eThe US player may designate one Region. For the remainder of the turn the USSR may not add additional Influence to that Region by the play of Operations Points via placing Influence.\u003c/p\u003e\n",
+  "name": "Chernobyl*",
+  "number": 94,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/094/printed/",
+  "plainContent": "The US player may designate one Region. For the remainder of the turn the USSR may not add additional Influence to that Region by the play of Operations Points via placing Influence.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAward USSR 1 VP.\u003c/p\u003e\n\u003cp\u003ePlace 1 USSR influence in \u003ccode\u003eWest Germany\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003cem\u003eNATO\u003c/em\u003e does not apply to \u003ccode\u003eWest Germany\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This card instead does nothing during \u003ccode\u003e096-L Tear Down This Wall\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(\u003ccode\u003e096-L Tear Down This Wall\u003c/code\u003e ends this event.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Willy Brandt*",
+  "number": 55,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/055/oracle/",
+  "plainContent": "Award USSR 1 VP.\nPlace 1 USSR influence in West Germany.\nOngoing — NATO does not apply to West Germany.\n(This card instead does nothing during 096-L Tear Down This Wall.)\n(096-L Tear Down This Wall ends this event.)\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

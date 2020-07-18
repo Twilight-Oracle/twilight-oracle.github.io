@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, when you launch a coup in a country in \u003ccode\u003eCentral America\u003c/code\u003e or \u003ccode\u003eSouth America\u003c/code\u003e, add 1 to the die roll.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, when the enemy launches a coup in a country in \u003ccode\u003eCentral America\u003c/code\u003e or \u003ccode\u003eSouth America\u003c/code\u003e, subtract 1 from the die roll.\u003c/p\u003e\n",
+  "name": "Latin American Death Squads",
+  "number": 69,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/069/oracle/",
+  "plainContent": "Until end of turn, when you launch a coup in a country in Central America or South America, add 1 to the die roll.\nUntil end of turn, when the enemy launches a coup in a country in Central America or South America, subtract 1 from the die roll.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

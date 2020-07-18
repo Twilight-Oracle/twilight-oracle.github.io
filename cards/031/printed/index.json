@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eAll further Operations cards played by your opponent this turn are -1 to their value (to a minimum value of 1 Op).\u003c/p\u003e\n",
+  "name": "Red Scare—Purge",
+  "number": 31,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/031/printed/",
+  "plainContent": "All further Operations cards played by your opponent this turn are -1 to their value (to a minimum value of 1 Op).\n",
+  "side": "none",
+  "types": [],
+  "version": "printed"
+}

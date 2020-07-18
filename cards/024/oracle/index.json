@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eGain 2 military operations.\u003c/p\u003e\n\u003cp\u003eChoose \u003ccode\u003eIndia\u003c/code\u003e or \u003ccode\u003ePakistan\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eRoll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.\u003c/p\u003e\n",
+  "name": "Indo-Pakistani War",
+  "number": 24,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/024/oracle/",
+  "plainContent": "Gain 2 military operations.\nChoose India or Pakistan.\nRoll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.\n",
+  "side": "none",
+  "types": [
+    "war"
+  ],
+  "version": "oracle"
+}

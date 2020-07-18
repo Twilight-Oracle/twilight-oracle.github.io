@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eGain 2 military operations.\u003c/p\u003e\n\u003cp\u003eChoose \u003ccode\u003eIran\u003c/code\u003e or \u003ccode\u003eIraq\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eRoll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.\u003c/p\u003e\n",
+  "name": "Iran-Iraq War*",
+  "number": 102,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/102/oracle/",
+  "plainContent": "Gain 2 military operations.\nChoose Iran or Iraq.\nRoll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.\n",
+  "side": "none",
+  "types": [
+    "war",
+    "unique"
+  ],
+  "version": "oracle"
+}

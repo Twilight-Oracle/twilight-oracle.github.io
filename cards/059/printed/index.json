@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR gains 2 VP for every subsequently US played \u0026ldquo;war card\u0026rdquo; (played as an event or Operations) unless played on the space race. War Cards: \u003cem\u003eArab-Israeli War, Korean War, Brush War, Indo-Pakistani War or Iran-Iraq War.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eThis event canceled by \u0026lsquo;An Evil Empire\u0026rsquo;.\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Flower Power*",
+  "number": 59,
+  "ops": 4,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/059/printed/",
+  "plainContent": "USSR gains 2 VP for every subsequently US played \u0026ldquo;war card\u0026rdquo; (played as an event or Operations) unless played on the space race. War Cards: Arab-Israeli War, Korean War, Brush War, Indo-Pakistani War or Iran-Iraq War.\nThis event canceled by \u0026lsquo;An Evil Empire\u0026rsquo;.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

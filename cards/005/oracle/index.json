@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR chooses a card in its hand at random and discards it.\u003c/p\u003e\n\u003cp\u003eIf that card is USA-aligned, USA resolves it.\u003c/p\u003e\n",
+  "name": "Soviet Announces a 5-Year Plan",
+  "number": 5,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/005/oracle/",
+  "plainContent": "USSR chooses a card in its hand at random and discards it.\nIf that card is USA-aligned, USA resolves it.\n",
+  "side": "USA",
+  "types": [],
+  "version": "oracle"
+}

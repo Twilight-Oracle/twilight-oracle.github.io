@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAward USA 1 VP. Remove all USSR influence from \u003ccode\u003eU.K.\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003ePlace 1 USSR influence in \u003ccode\u003eArgentina\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e007-E Socialist Governments\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "The Iron Lady*",
+  "number": 83,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/083/oracle/",
+  "plainContent": "Award USA 1 VP. Remove all USSR influence from U.K..\nPlace 1 USSR influence in Argentina.\nOngoing — 007-E Socialist Governments does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

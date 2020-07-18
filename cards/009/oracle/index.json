@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 2 USSR influence in \u003ccode\u003eVietnam\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, the operations value of any card played by USSR is 1 greater if all its operations are performed in \u003ccode\u003eSoutheast Asia\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Vietnam Revolts*",
+  "number": 9,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/009/oracle/",
+  "plainContent": "Place 2 USSR influence in Vietnam.\nUntil end of turn, the operations value of any card played by USSR is 1 greater if all its operations are performed in Southeast Asia.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

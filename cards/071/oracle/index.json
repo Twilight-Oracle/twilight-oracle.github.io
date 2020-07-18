@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf USA holds \u003ccode\u003e006-E The China Card\u003c/code\u003e, award USA 2 VP.\u003c/p\u003e\n\u003cp\u003eUSA now holds \u003ccode\u003e006-E The China Card\u003c/code\u003e. Turn it facedown if it was taken from USSR.\u003c/p\u003e\n",
+  "name": "Nixon Plays the China Card*",
+  "number": 71,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/071/oracle/",
+  "plainContent": "If USA holds 006-E The China Card, award USA 2 VP.\nUSA now holds 006-E The China Card. Turn it facedown if it was taken from USSR.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

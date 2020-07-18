@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf the USSR has \u003cem\u003eThe China Card\u003c/em\u003e, claim it face up and available for play. If the US already has \u003cem\u003eThe China Card\u003c/em\u003e, add 4 US Influence in Asia, no more than 2 per country.\u003c/p\u003e\n",
+  "name": "Ussuri River Skirmish*",
+  "number": 76,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/076/printed/",
+  "plainContent": "If the USSR has The China Card, claim it face up and available for play. If the US already has The China Card, add 4 US Influence in Asia, no more than 2 per country.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eScore \u003ccode\u003eEurope\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Europe Scoring",
+  "number": 2,
+  "ops": null,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/002/oracle/",
+  "plainContent": "Score Europe.\n",
+  "side": "none",
+  "types": [
+    "scoring"
+  ],
+  "version": "oracle"
+}

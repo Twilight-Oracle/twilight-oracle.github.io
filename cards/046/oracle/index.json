@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eGain 5 military operations.\u003c/p\u003e\n\u003cp\u003eMove the DEFCON marker to any step of the DEFCON track.\u003c/p\u003e\n",
+  "name": "How I Learned to Stop Worrying*",
+  "number": 46,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/046/oracle/",
+  "plainContent": "Gain 5 military operations.\nMove the DEFCON marker to any step of the DEFCON track.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003e\u003cem\u003e\u003cstrong\u003eBegins the game with the USSR player.\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e+1 Operations value when all points are used in Asia. Pass to opponent after play.\u003c/p\u003e\n\u003cp\u003e+1 VP for the player holding this card at the end of Turn 10.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eCancels effect of \u0026lsquo;Formosan Resolution\u0026rsquo; if this card is played by the US player.\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "The China Card",
+  "number": 6,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/006/printed/",
+  "plainContent": "Begins the game with the USSR player.\n+1 Operations value when all points are used in Asia. Pass to opponent after play.\n+1 VP for the player holding this card at the end of Turn 10.\nCancels effect of \u0026lsquo;Formosan Resolution\u0026rsquo; if this card is played by the US player.\n",
+  "side": "none",
+  "types": [],
+  "version": "printed"
+}

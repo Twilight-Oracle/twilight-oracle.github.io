@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR receives 1 VP for each US coup attempt made for the remainder of the current turn.\u003c/p\u003e\n",
+  "name": "Yuri and Samantha*",
+  "number": 109,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/109/printed/",
+  "plainContent": "USSR receives 1 VP for each US coup attempt made for the remainder of the current turn.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

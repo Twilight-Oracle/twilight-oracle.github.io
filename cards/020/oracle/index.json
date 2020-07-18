@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003ePerform one (enemy\u0026rsquo;s choice):\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRoll a die and add 2. The enemy rolls a die. Repeat both rolls until one side has a greater result. Award 2 VP to that side.\u003c/li\u003e\n\u003cli\u003eDecrement DEFCON. Conduct operations with this card as though its operations value were 4.\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "name": "Olympic Games",
+  "number": 20,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/020/oracle/",
+  "plainContent": "Perform one (enemy\u0026rsquo;s choice):\n Roll a die and add 2. The enemy rolls a die. Repeat both rolls until one side has a greater result. Award 2 VP to that side. Decrement DEFCON. Conduct operations with this card as though its operations value were 4.  ",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — When \u003ccode\u003eAsia\u003c/code\u003e is scored, if \u003ccode\u003eTaiwan\u003c/code\u003e is USA-controlled, \u003ccode\u003eTaiwan\u003c/code\u003e is a battleground during that scoring.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(\u003ccode\u003eTaiwan\u003c/code\u003e is not a battleground at any other time.)\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(\u003ccode\u003e006-E The China Card\u003c/code\u003e can end \u003ccode\u003e035-E Formosan Resolution\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Formosan Resolution*",
+  "number": 35,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/035/oracle/",
+  "plainContent": "Ongoing — When Asia is scored, if Taiwan is USA-controlled, Taiwan is a battleground during that scoring.\n(Taiwan is not a battleground at any other time.)\n(006-E The China Card can end 035-E Formosan Resolution.)\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

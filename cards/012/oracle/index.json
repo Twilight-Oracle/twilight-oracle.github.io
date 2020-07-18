@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all USA influence from \u003ccode\u003eRomania\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003ePlace USSR influence in \u003ccode\u003eRomania\u003c/code\u003e sufficient for control.\u003c/p\u003e\n",
+  "name": "Romanian Abdication*",
+  "number": 12,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/012/oracle/",
+  "plainContent": "Remove all USA influence from Romania.\nPlace USSR influence in Romania sufficient for control.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

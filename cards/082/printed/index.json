@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all US Influence in Iran. Add 2 USSR Influence in Iran.\u003c/p\u003e\n\u003cp\u003eDoubles effect of \u003cem\u003eTerrorism\u003c/em\u003e card against US.\u003c/p\u003e\n",
+  "name": "Iranian Hostage Crisis*",
+  "number": 82,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/082/printed/",
+  "plainContent": "Remove all US Influence in Iran. Add 2 USSR Influence in Iran.\nDoubles effect of Terrorism card against US.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

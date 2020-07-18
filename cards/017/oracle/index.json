@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eRemove up to 2 USA influence from \u003ccode\u003eFrance\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003ePlace 1 USSR influence in \u003ccode\u003eFrance\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003cem\u003eNATO\u003c/em\u003e does not apply to \u003ccode\u003eFrance\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "De Gaulle Leads France*",
+  "number": 17,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/017/oracle/",
+  "plainContent": "Remove up to 2 USA influence from France.\nPlace 1 USSR influence in France.\nOngoing — NATO does not apply to France.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all USA influence from \u003ccode\u003eNicaragua\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eChoose a country adjacent to \u003ccode\u003eNicaragua\u003c/code\u003e; you may launch a coup in that country using this card, but you gain no military operations.\u003c/p\u003e\n",
+  "name": "Ortega Elected in Nicaragua*",
+  "number": 91,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/091/oracle/",
+  "plainContent": "Remove all USA influence from Nicaragua.\nChoose a country adjacent to Nicaragua; you may launch a coup in that country using this card, but you gain no military operations.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

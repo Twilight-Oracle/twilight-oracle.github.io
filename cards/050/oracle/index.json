@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eDecrement DEFCON.\u003c/p\u003e\n\u003cp\u003eWhen USA next plays a card in an action round, unless that card is \u003ccode\u003e032-E UN Intervention\u003c/code\u003e and USA chooses to resolve it, award USSR 3 VP.\u003c/p\u003e\n",
+  "name": "We Will Bury You*",
+  "number": 50,
+  "ops": 4,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/050/oracle/",
+  "plainContent": "Decrement DEFCON.\nWhen USA next plays a card in an action round, unless that card is 032-E UN Intervention and USA chooses to resolve it, award USSR 3 VP.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eCompare each player\u0026rsquo;s status on the Military Operations Tracks. If Phasing Player has more MIlitary Operations points, he scores 1 VP. If Phasing Player has more Military Operations points \u003cem\u003eand\u003c/em\u003e has met the Required Military Operations amount, he scores 3 VP instead.\u003c/p\u003e\n",
+  "name": "Arms Race",
+  "number": 39,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/039/printed/",
+  "plainContent": "Compare each player\u0026rsquo;s status on the Military Operations Tracks. If Phasing Player has more MIlitary Operations points, he scores 1 VP. If Phasing Player has more Military Operations points and has met the Required Military Operations amount, he scores 3 VP instead.\n",
+  "side": "none",
+  "types": [],
+  "version": "printed"
+}

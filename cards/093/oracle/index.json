@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, whenever either side performs a realignment, subtract 1 from the USA die roll.\u003c/p\u003e\n",
+  "name": "Iran-Contra Scandal*",
+  "number": 93,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/093/oracle/",
+  "plainContent": "Until end of turn, whenever either side performs a realignment, subtract 1 from the USA die roll.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

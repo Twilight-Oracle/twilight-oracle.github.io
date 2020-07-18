@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eDegrade DEFCON one level. US gains 2 VP.\u003c/p\u003e\n\u003cp\u003eIf South Korea is US Controlled, then the US may place Influence or attempt Realignments as if they played a 4 Ops card.\u003c/p\u003e\n",
+  "name": "Soviets Shoot Down KAL-007*",
+  "number": 89,
+  "ops": 4,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/089/printed/",
+  "plainContent": "Degrade DEFCON one level. US gains 2 VP.\nIf South Korea is US Controlled, then the US may place Influence or attempt Realignments as if they played a 4 Ops card.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

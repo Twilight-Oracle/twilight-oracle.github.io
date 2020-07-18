@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, the operations value of any card played by the enemy is 1 less. A card\u0026rsquo;s operations value cannot be reduced below 1 in this way.\u003c/p\u003e\n",
+  "name": "Red Scare—Purge",
+  "number": 31,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/031/oracle/",
+  "plainContent": "Until end of turn, the operations value of any card played by the enemy is 1 less. A card\u0026rsquo;s operations value cannot be reduced below 1 in this way.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

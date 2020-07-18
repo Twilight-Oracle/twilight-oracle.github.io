@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eRemove 1 USSR influence from each of up to 3 countries in \u003ccode\u003eEastern Europe\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eIf it is the Late War, instead remove up to 2 USSR influence from those countries.\u003c/p\u003e\n",
+  "name": "East European Unrest",
+  "number": 29,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/029/oracle/",
+  "plainContent": "Remove 1 USSR influence from each of up to 3 countries in Eastern Europe.\nIf it is the Late War, instead remove up to 2 USSR influence from those countries.\n",
+  "side": "USA",
+  "types": [],
+  "version": "oracle"
+}

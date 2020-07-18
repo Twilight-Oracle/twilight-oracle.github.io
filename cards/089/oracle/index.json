@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eDecrement DEFCON, then award USA 2 VP.\u003c/p\u003e\n\u003cp\u003eIf \u003ccode\u003eSouth Korea\u003c/code\u003e is USA-controlled, USA may spread influence or perform realignments with this card.\u003c/p\u003e\n",
+  "name": "Soviets Shoot Down KAL-007*",
+  "number": 89,
+  "ops": 4,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/089/oracle/",
+  "plainContent": "Decrement DEFCON, then award USA 2 VP.\nIf South Korea is USA-controlled, USA may spread influence or perform realignments with this card.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

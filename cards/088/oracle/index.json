@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all USA influence from \u003ccode\u003eLebanon\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eRemove 2 USA influence from the \u003ccode\u003eMiddle East\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Marine Barracks Bombing*",
+  "number": 88,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/088/oracle/",
+  "plainContent": "Remove all USA influence from Lebanon.\nRemove 2 USA influence from the Middle East.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

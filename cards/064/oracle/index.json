@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 1 USA influence in each of \u003ccode\u003ePanama\u003c/code\u003e, \u003ccode\u003eCosta Rica\u003c/code\u003e, and \u003ccode\u003eVenezuela\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Panama Canal Returned*",
+  "number": 64,
+  "ops": 1,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/064/oracle/",
+  "plainContent": "Place 1 USA influence in each of Panama, Costa Rica, and Venezuela.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

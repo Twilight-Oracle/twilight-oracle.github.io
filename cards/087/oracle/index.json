@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePerform one (USSR\u0026rsquo;s choice):\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePlace 4 USSR influence in \u003ccode\u003eEurope\u003c/code\u003e.\u003c/li\u003e\n\u003cli\u003eIf USSR has more VP than USA, place 6 USSR influence in \u003ccode\u003eEurope\u003c/code\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eDo not place more than 2 influence in a single country.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — USSR may not choose any country in \u003ccode\u003eEurope\u003c/code\u003e when launching a coup.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — After USSR resolves \u003ccode\u003e090-L Glasnost\u003c/code\u003e, USSR may spread influence or perform realignments with that card.\u003c/p\u003e\n",
+  "name": "The Reformer*",
+  "number": 87,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/087/oracle/",
+  "plainContent": "Perform one (USSR\u0026rsquo;s choice):\n Place 4 USSR influence in Europe. If USSR has more VP than USA, place 6 USSR influence in Europe.  Do not place more than 2 influence in a single country.\nOngoing — USSR may not choose any country in Europe when launching a coup.\nOngoing — After USSR resolves 090-L Glasnost, USSR may spread influence or perform realignments with that card.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eEach side rolls a die and adds 1 for each region other than \u003ccode\u003eWestern Europe\u003c/code\u003e, \u003ccode\u003eEastern Europe\u003c/code\u003e, and \u003ccode\u003eSoutheast Asia\u003c/code\u003e in which it has domination or control.\u003c/p\u003e\n\u003cp\u003eIf either side\u0026rsquo;s result is greater, award that side 2 VP and that side may increment or decrement DEFCON up to once.\u003c/p\u003e\n",
+  "name": "Summit",
+  "number": 45,
+  "ops": 1,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/045/oracle/",
+  "plainContent": "Each side rolls a die and adds 1 for each region other than Western Europe, Eastern Europe, and Southeast Asia in which it has domination or control.\nIf either side\u0026rsquo;s result is greater, award that side 2 VP and that side may increment or decrement DEFCON up to once.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

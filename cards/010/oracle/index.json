@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSA may discard a card with an operations value of 3 or greater. If USA does not, remove all USA influence from \u003ccode\u003eWest Germany\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Blockade*",
+  "number": 10,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/010/oracle/",
+  "plainContent": "USA may discard a card with an operations value of 3 or greater. If USA does not, remove all USA influence from West Germany.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

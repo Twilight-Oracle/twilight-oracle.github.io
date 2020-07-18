@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 1 USA influence in each of up to 7 countries in \u003ccode\u003eWestern Europe\u003c/code\u003e that are not USSR-controlled.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e021-E NATO\u003c/code\u003e can not be resolved.\u003c/p\u003e\n",
+  "name": "Marshall Plan*",
+  "number": 23,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/023/oracle/",
+  "plainContent": "Place 1 USA influence in each of up to 7 countries in Western Europe that are not USSR-controlled.\nOngoing — 021-E NATO can not be resolved.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eThis card cannot be implemented except during \u003ccode\u003e016-E Warsaw Pact Formed\u003c/code\u003e or \u003ccode\u003e023-E Marshall Plan\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — USSR cannot choose USA-controlled countries in \u003ccode\u003eEurope\u003c/code\u003e for coups, realignments, or \u003ccode\u003e036-M Brush War\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "NATO*",
+  "number": 21,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/021/oracle/",
+  "plainContent": "This card cannot be implemented except during 016-E Warsaw Pact Formed or 023-E Marshall Plan.\nOngoing — USSR cannot choose USA-controlled countries in Europe for coups, realignments, or 036-M Brush War.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

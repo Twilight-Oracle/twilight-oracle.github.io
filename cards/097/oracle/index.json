@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAward USA 1 VP.\u003c/p\u003e\n\u003cp\u003eEnd \u003ccode\u003e059-M Flower Power\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e059-M Flower Power\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "An Evil Empire*",
+  "number": 97,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/097/oracle/",
+  "plainContent": "Award USA 1 VP.\nEnd 059-M Flower Power.\nOngoing — 059-M Flower Power does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

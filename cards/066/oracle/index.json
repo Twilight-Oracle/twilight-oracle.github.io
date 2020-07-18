@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 1 USA influence in each of up to 3 countries which contain no influence.\u003c/p\u003e\n",
+  "name": "Puppet Governments*",
+  "number": 66,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/066/oracle/",
+  "plainContent": "Place 1 USA influence in each of up to 3 countries which contain no influence.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

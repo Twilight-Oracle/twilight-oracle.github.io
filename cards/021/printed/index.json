@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003e\u003cem\u003ePlay after \u0026lsquo;Marshall Plan\u0026rsquo; or \u0026lsquo;Warsaw Pact.'\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eUSSR player may no longer make Coup or Realignment rolls in any US Controlled countries in Europe.\u003c/p\u003e\n\u003cp\u003eUS Controlled countries in Europe may not be attacked by play of the \u003cem\u003eBrush War\u003c/em\u003e event.\u003c/p\u003e\n",
+  "name": "NATO*",
+  "number": 21,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/021/printed/",
+  "plainContent": "Play after \u0026lsquo;Marshall Plan\u0026rsquo; or \u0026lsquo;Warsaw Pact.'\nUSSR player may no longer make Coup or Realignment rolls in any US Controlled countries in Europe.\nUS Controlled countries in Europe may not be attacked by play of the Brush War event.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

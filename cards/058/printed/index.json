@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf the US has \u003cem\u003eThe China Card\u003c/em\u003e, claim it face up and available for play. If the USSR already has it, USSR gains 1 VP.\u003c/p\u003e\n",
+  "name": "Cultural Revolution*",
+  "number": 58,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/058/printed/",
+  "plainContent": "If the US has The China Card, claim it face up and available for play. If the USSR already has it, USSR gains 1 VP.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

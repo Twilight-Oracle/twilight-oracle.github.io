@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUS gains 1 VP.\u003c/p\u003e\n\u003cp\u003eUS receives 1 Influence in Israel, Jordan and Egpyt.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u0026lsquo;Arab-Israeli War\u0026rsquo; event no longer playable.\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Camp David Accords*",
+  "number": 65,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/065/printed/",
+  "plainContent": "US gains 1 VP.\nUS receives 1 Influence in Israel, Jordan and Egpyt.\n\u0026lsquo;Arab-Israeli War\u0026rsquo; event no longer playable.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

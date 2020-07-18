@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003e\u003cem\u003eOPEC\u003c/em\u003e event is no longer playable.\u003c/p\u003e\n\u003cp\u003eUS may play 8 cards this turn.\u003c/p\u003e\n",
+  "name": "North Sea Oil*",
+  "number": 86,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/086/printed/",
+  "plainContent": "OPEC event is no longer playable.\nUS may play 8 cards this turn.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

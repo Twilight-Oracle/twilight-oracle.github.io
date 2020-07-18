@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf DEFCON Status 2, you may immediately end the game (without Final Scoring Phase) after giving opponent 6 VPs.\u003c/p\u003e\n",
+  "name": "Wargames*",
+  "number": 100,
+  "ops": 4,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/100/printed/",
+  "plainContent": "If DEFCON Status 2, you may immediately end the game (without Final Scoring Phase) after giving opponent 6 VPs.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

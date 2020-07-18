@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf USSR holds \u003ccode\u003e006-E The China Card\u003c/code\u003e, award USSR 1 VP.\u003c/p\u003e\n\u003cp\u003eUSSR now holds \u003ccode\u003e006-E The China Card\u003c/code\u003e. Turn it faceup if it was taken from USA.\u003c/p\u003e\n",
+  "name": "Cultural Revolution*",
+  "number": 58,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/058/oracle/",
+  "plainContent": "If USSR holds 006-E The China Card, award USSR 1 VP.\nUSSR now holds 006-E The China Card. Turn it faceup if it was taken from USA.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

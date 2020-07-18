@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR gains 1 VP.\u003c/p\u003e\n\u003cp\u003eUSSR receives 1 Influence in West Germany.\u003c/p\u003e\n\u003cp\u003eCancels \u003cem\u003eNATO\u003c/em\u003e for West Germany.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eThis event unplayable and/or canceled by \u0026lsquo;Tear Down This Wall.'\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Willy Brandt*",
+  "number": 55,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/055/printed/",
+  "plainContent": "USSR gains 1 VP.\nUSSR receives 1 Influence in West Germany.\nCancels NATO for West Germany.\nThis event unplayable and/or canceled by \u0026lsquo;Tear Down This Wall.'\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

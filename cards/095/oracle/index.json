@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUSA may discard a card with an operations value of 3 or greater. If USA does not, USSR chooses 2 countries in \u003ccode\u003eSouth America\u003c/code\u003e and places in each chosen country influence equal to the amount of USSR influence in that country.\u003c/p\u003e\n",
+  "name": "Latin American Debt Crisis",
+  "number": 95,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/095/oracle/",
+  "plainContent": "USA may discard a card with an operations value of 3 or greater. If USA does not, USSR chooses 2 countries in South America and places in each chosen country influence equal to the amount of USSR influence in that country.\n",
+  "side": "USSR",
+  "types": [],
+  "version": "oracle"
+}

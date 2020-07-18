@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUS player exposes his hand to USSR player for remainder of turn. USSR then chooses one card from US hand; this card is discarded.\u003c/p\u003e\n",
+  "name": "Aldrich Ames Remix*",
+  "number": 98,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/098/printed/",
+  "plainContent": "US player exposes his hand to USSR player for remainder of turn. USSR then chooses one card from US hand; this card is discarded.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

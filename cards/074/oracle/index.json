@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eRemove 4 USSR influence from any combination of countries not in \u003ccode\u003eEurope\u003c/code\u003e. Do not remove more than 2 influence from any single country.\u003c/p\u003e\n",
+  "name": "The Voice of America",
+  "number": 74,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/074/oracle/",
+  "plainContent": "Remove 4 USSR influence from any combination of countries not in Europe. Do not remove more than 2 influence from any single country.\n",
+  "side": "USA",
+  "types": [],
+  "version": "oracle"
+}

@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove all US influence from \u003ccode\u003eCuba\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003ePlace USSR influence in \u003ccode\u003eCuba\u003c/code\u003e sufficient for control.\u003c/p\u003e\n",
+  "name": "Fidel*",
+  "number": 8,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/008/oracle/",
+  "plainContent": "Remove all US influence from Cuba.\nPlace USSR influence in Cuba sufficient for control.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

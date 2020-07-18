@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUSA must complete 8 action rounds this turn. In its 8th action round, USA may decline to play a card.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e061-M OPEC\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "North Sea Oil*",
+  "number": 86,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/086/oracle/",
+  "plainContent": "USA must complete 8 action rounds this turn. In its 8th action round, USA may decline to play a card.\nOngoing — 061-M OPEC does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

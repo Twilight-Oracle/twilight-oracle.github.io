@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 2 USA influence in any combination of countries in \u003ccode\u003eCentral America\u003c/code\u003e and \u003ccode\u003eSouth America\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "OAS Founded*",
+  "number": 70,
+  "ops": 1,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/070/oracle/",
+  "plainContent": "Place 2 USA influence in any combination of countries in Central America and South America.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

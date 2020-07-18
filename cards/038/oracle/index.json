@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eScore \u003ccode\u003eSoutheast Asia\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Southeast Asia Scoring*",
+  "number": 38,
+  "ops": null,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/038/oracle/",
+  "plainContent": "Score Southeast Asia.\n",
+  "side": "none",
+  "types": [
+    "scoring",
+    "unique"
+  ],
+  "version": "oracle"
+}

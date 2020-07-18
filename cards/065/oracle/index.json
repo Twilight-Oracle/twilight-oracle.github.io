@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAward USA 1 VP.\u003c/p\u003e\n\u003cp\u003ePlace 1 USA influence in each of \u003ccode\u003eIsrael\u003c/code\u003e, \u003ccode\u003eJordan\u003c/code\u003e, and \u003ccode\u003eEgypt\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e013-E Arab-Israeli War\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "Camp David Accords*",
+  "number": 65,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/065/oracle/",
+  "plainContent": "Award USA 1 VP.\nPlace 1 USA influence in each of Israel, Jordan, and Egypt.\nOngoing — 013-E Arab-Israeli War does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

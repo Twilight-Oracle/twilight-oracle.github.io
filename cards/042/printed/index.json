@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eOn next action round, US player must discard an Operations card worth 2 or more \u003cem\u003eand\u003c/em\u003e roll 1-4 to cancel this event. Repeat each US player Action round until successful or no appropriate cards remain. If out of appropriate cards, the US player may only play scoring cards until the next turn.\u003c/p\u003e\n",
+  "name": "Quagmire*",
+  "number": 42,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/042/printed/",
+  "plainContent": "On next action round, US player must discard an Operations card worth 2 or more and roll 1-4 to cancel this event. Repeat each US player Action round until successful or no appropriate cards remain. If out of appropriate cards, the US player may only play scoring cards until the next turn.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

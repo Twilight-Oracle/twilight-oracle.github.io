@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eIf DEFCON is 2, you may award the enemy 6 VP.\u003c/p\u003e\n\u003cp\u003eIf you do, the game ends. The side with more VP wins.\u003c/p\u003e\n",
+  "name": "Wargames*",
+  "number": 100,
+  "ops": 4,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/100/oracle/",
+  "plainContent": "If DEFCON is 2, you may award the enemy 6 VP.\nIf you do, the game ends. The side with more VP wins.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

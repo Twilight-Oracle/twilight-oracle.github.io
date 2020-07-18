@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, USSR plays with its hand revealed.\u003c/p\u003e\n\u003cp\u003eUSA conducts operations with this card.\u003c/p\u003e\n",
+  "name": "CIA Created*",
+  "number": 26,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/026/oracle/",
+  "plainContent": "Until end of turn, USSR plays with its hand revealed.\nUSA conducts operations with this card.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 2 USA influence in \u003ccode\u003eSaudi Arabia\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e065-M Muslim Revolution\u003c/code\u003e does nothing.\u003c/p\u003e\n",
+  "name": "AWACS Sale to Saudis*",
+  "number": 110,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/110/oracle/",
+  "plainContent": "Place 2 USA influence in Saudi Arabia.\nOngoing — 065-M Muslim Revolution does nothing.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

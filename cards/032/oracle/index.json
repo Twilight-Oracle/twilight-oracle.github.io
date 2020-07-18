@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eIf this card is a headline, it does nothing.\u003c/p\u003e\n\u003cp\u003eOtherwise, discard a card aligned with the enemy. Conduct operations with that card.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(That card is not resolved. Neutral cards are aligned with neither side.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "UN Intervention",
+  "number": 32,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/032/oracle/",
+  "plainContent": "If this card is a headline, it does nothing.\nOtherwise, discard a card aligned with the enemy. Conduct operations with that card.\n(That card is not resolved. Neutral cards are aligned with neither side.)\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

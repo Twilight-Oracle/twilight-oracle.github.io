@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eImprove DEFCON two levels.\u003c/p\u003e\n\u003cp\u003eFurther Coup attempts incur -1 die roll modifier for both players for the remainder of the turn.\u003c/p\u003e\n\u003cp\u003ePlayer may sort through discard pile and reclaim one non-scoring card, after revealing it to their opponent.\u003c/p\u003e\n",
+  "name": "SALT Negotiations*",
+  "number": 43,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/043/printed/",
+  "plainContent": "Improve DEFCON two levels.\nFurther Coup attempts incur -1 die roll modifier for both players for the remainder of the turn.\nPlayer may sort through discard pile and reclaim one non-scoring card, after revealing it to their opponent.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eIf the \u003ccode\u003eUnited Kingdom\u003c/code\u003e is not USA-controlled, this card does nothing.\u003c/p\u003e\n\u003cp\u003eOtherwise, perform one (USA\u0026rsquo;s choice):\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePlace 1 USA influence in any country adjacent to the \u003ccode\u003eUnited Kingdom\u003c/code\u003e.\u003c/li\u003e\n\u003cli\u003eIf \u003ccode\u003e021-E NATO\u003c/code\u003e is in effect, place 2 USA influence in any country in \u003ccode\u003eWestern Europe\u003c/code\u003e and award USA 2 VP.\u003c/li\u003e\n\u003c/ul\u003e\n",
+  "name": "Special Relationship",
+  "number": 105,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/105/oracle/",
+  "plainContent": "If the United Kingdom is not USA-controlled, this card does nothing.\nOtherwise, perform one (USA\u0026rsquo;s choice):\n Place 1 USA influence in any country adjacent to the United Kingdom. If 021-E NATO is in effect, place 2 USA influence in any country in Western Europe and award USA 2 VP.  ",
+  "side": "USA",
+  "types": [],
+  "version": "oracle"
+}

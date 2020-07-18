@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eScore \u003ccode\u003eAsia\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Asia Scoring",
+  "number": 1,
+  "ops": null,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/001/oracle/",
+  "plainContent": "Score Asia.\n",
+  "side": "none",
+  "types": [
+    "scoring"
+  ],
+  "version": "oracle"
+}

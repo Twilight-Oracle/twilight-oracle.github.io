@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAllows play of \u003cem\u003eNATO\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003eAdd one US Influence in each of seven non-USSR Controlled Western European countries.\u003c/p\u003e\n",
+  "name": "Marshall Plan*",
+  "number": 23,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/023/printed/",
+  "plainContent": "Allows play of NATO.\nAdd one US Influence in each of seven non-USSR Controlled Western European countries.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

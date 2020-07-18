@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eAll US Realignment rolls have a -1 die roll modifier for the remainder of the turn.\u003c/p\u003e\n",
+  "name": "Iran-Contra Scandal*",
+  "number": 93,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/093/printed/",
+  "plainContent": "All US Realignment rolls have a -1 die roll modifier for the remainder of the turn.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

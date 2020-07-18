@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003ePlace 1 USSR influence in each of up to 4 countries in \u003ccode\u003eEastern Europe\u003c/code\u003e that are not USA-controlled.\u003c/p\u003e\n",
+  "name": "COMECON*",
+  "number": 14,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/014/oracle/",
+  "plainContent": "Place 1 USSR influence in each of up to 4 countries in Eastern Europe that are not USA-controlled.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

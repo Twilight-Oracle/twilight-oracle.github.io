@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eThe enemy chooses a card from its hand at random and discards that card.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(\u003ccode\u003e082-L Iranian Hostage Crisis\u003c/code\u003e causes USA to discard 2 cards instead of 1.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Terrorism",
+  "number": 92,
+  "ops": 2,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/092/oracle/",
+  "plainContent": "The enemy chooses a card from its hand at random and discards that card.\n(082-L Iranian Hostage Crisis causes USA to discard 2 cards instead of 1.)\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

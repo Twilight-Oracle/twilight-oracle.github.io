@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eGain VP equal to DEFCON minus 2.\u003c/p\u003e\n\u003cp\u003eIncrement DEFCON twice.\u003c/p\u003e\n",
+  "name": "Nuclear Test Ban",
+  "number": 34,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/034/oracle/",
+  "plainContent": "Gain VP equal to DEFCON minus 2.\nIncrement DEFCON twice.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

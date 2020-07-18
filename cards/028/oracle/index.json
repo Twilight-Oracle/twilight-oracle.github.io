@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove up to 4 USA influence from \u003ccode\u003eFrance\u003c/code\u003e, the \u003ccode\u003eUnited Kingdom\u003c/code\u003e, and \u003ccode\u003eIsrael\u003c/code\u003e. Do not remove more than 2 from any single country.\u003c/p\u003e\n",
+  "name": "Suez Crisis*",
+  "number": 28,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/028/oracle/",
+  "plainContent": "Remove up to 4 USA influence from France, the United Kingdom, and Israel. Do not remove more than 2 from any single country.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

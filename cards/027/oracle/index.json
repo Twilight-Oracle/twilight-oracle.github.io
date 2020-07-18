@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePlace USA influence in \u003ccode\u003eJapan\u003c/code\u003e sufficient for control.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — USSR cannot choose \u003ccode\u003eJapan\u003c/code\u003e for coups or realignments.\u003c/p\u003e\n",
+  "name": "US-Japan Mutual Defense Pact*",
+  "number": 27,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/027/oracle/",
+  "plainContent": "Place USA influence in Japan sufficient for control.\nOngoing — USSR cannot choose Japan for coups or realignments.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

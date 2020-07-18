@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eSet DEFCON to 2.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, if the enemy launches a coup, that side loses the game.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, at any time, USSR may remove 2 friendly influence from \u003ccode\u003eCuba\u003c/code\u003e and USA may remove 2 friendly influence from either \u003ccode\u003eWest Germany\u003c/code\u003e or \u003ccode\u003eTurkey\u003c/code\u003e; if either side removes friendly influence this way, all of this card\u0026rsquo;s effects end.\u003c/p\u003e\n",
+  "name": "Cuban Missile Crisis*",
+  "number": 40,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/040/oracle/",
+  "plainContent": "Set DEFCON to 2.\nUntil end of turn, if the enemy launches a coup, that side loses the game.\nUntil end of turn, at any time, USSR may remove 2 friendly influence from Cuba and USA may remove 2 friendly influence from either West Germany or Turkey; if either side removes friendly influence this way, all of this card\u0026rsquo;s effects end.\n",
+  "side": "none",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

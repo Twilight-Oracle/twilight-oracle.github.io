@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUS Coup attempts in Battleground Countries do not affect the DEFCON tract for the remainder of the turn (does not affect \u003cem\u003eCuban Missile Crisis\u003c/em\u003e).\u003c/p\u003e\n",
+  "name": "Nuclear Subs*",
+  "number": 41,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/041/printed/",
+  "plainContent": "US Coup attempts in Battleground Countries do not affect the DEFCON tract for the remainder of the turn (does not affect Cuban Missile Crisis).\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

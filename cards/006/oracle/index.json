@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eConduct operations with this card. This card\u0026rsquo;s operations value is 1 greater if all its operations are conducted in \u003ccode\u003eAsia\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eThe enemy now holds this card. Turn it facedown.\u003c/p\u003e\n\u003cp\u003eWhen USA resolves this card, end \u003ccode\u003e035-E Formosan Resolution*\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This card is never in a side\u0026rsquo;s hand and cannot be discarded.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "The China Card",
+  "number": 6,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/006/oracle/",
+  "plainContent": "Conduct operations with this card. This card\u0026rsquo;s operations value is 1 greater if all its operations are conducted in Asia.\nThe enemy now holds this card. Turn it facedown.\nWhen USA resolves this card, end 035-E Formosan Resolution*.\n(This card is never in a side\u0026rsquo;s hand and cannot be discarded.)\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

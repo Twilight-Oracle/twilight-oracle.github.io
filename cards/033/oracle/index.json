@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eChoose any number of countries. Remove up to 4 USSR influence from among them.\u003c/p\u003e\n\u003cp\u003ePlace USSR influence equal to the amount removed, divided among any number of countries not USA-controlled. Do not place more than 2 influence in any single country.\u003c/p\u003e\n",
+  "name": "De-Stalinization*",
+  "number": 33,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/033/oracle/",
+  "plainContent": "Choose any number of countries. Remove up to 4 USSR influence from among them.\nPlace USSR influence equal to the amount removed, divided among any number of countries not USA-controlled. Do not place more than 2 influence in any single country.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

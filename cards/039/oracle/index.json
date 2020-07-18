@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eIf the active side\u0026rsquo;s MilOps marker is ahead of its enemy\u0026rsquo;s, award the active side 1 VP.\u003c/p\u003e\n\u003cp\u003eIf the active side\u0026rsquo;s MilOps marker is ahead of its enemy\u0026rsquo;s and is on a step that meets or exceeds DEFCON in value, award that side 2 additional VP.\u003c/p\u003e\n",
+  "name": "Arms Race",
+  "number": 39,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/039/oracle/",
+  "plainContent": "If the active side\u0026rsquo;s MilOps marker is ahead of its enemy\u0026rsquo;s, award the active side 1 VP.\nIf the active side\u0026rsquo;s MilOps marker is ahead of its enemy\u0026rsquo;s and is on a step that meets or exceeds DEFCON in value, award that side 2 additional VP.\n",
+  "side": "none",
+  "types": [],
+  "version": "oracle"
+}

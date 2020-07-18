@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAward USSR 2 military operations.\u003c/p\u003e\n\u003cp\u003eRoll a die and subtract 1 for each USA-controlled country adjacent to \u003ccode\u003eSouth Korea\u003c/code\u003e. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from \u003ccode\u003eSouth Korea\u003c/code\u003e, and place USSR influence there equal to the amount removed.\u003c/p\u003e\n",
+  "name": "Korean War*",
+  "number": 11,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/011/oracle/",
+  "plainContent": "Award USSR 2 military operations.\nRoll a die and subtract 1 for each USA-controlled country adjacent to South Korea. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from South Korea, and place USSR influence there equal to the amount removed.\n",
+  "side": "USSR",
+  "types": [
+    "war",
+    "unique"
+  ],
+  "version": "oracle"
+}

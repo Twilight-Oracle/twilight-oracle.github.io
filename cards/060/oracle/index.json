@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eAward USSR 1 VP.\u003c/p\u003e\n\u003cp\u003eUntil end of turn, when either side resolves \u003ccode\u003e032-E UN Intervention\u003c/code\u003e, award USSR 1 VP.\u003c/p\u003e\n",
+  "name": "U2 Incident*",
+  "number": 60,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/060/oracle/",
+  "plainContent": "Award USSR 1 VP.\nUntil end of turn, when either side resolves 032-E UN Intervention, award USSR 1 VP.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

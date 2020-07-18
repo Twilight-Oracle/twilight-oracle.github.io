@@ -1,0 +1,430 @@
+:root {
+  --unobtrusive: #979797;
+  --light: #c0c0c0;
+  font-size: 18px;
+  --content-margin: 0.5em;
+  --matching-color: #b0d0ff;
+}
+
+/* Define war-period colors */
+
+.early {
+  background: #00a9d1;
+  color: black;
+}
+
+.late {
+  background: #2d3045;
+  color: white;
+}
+
+.mid {
+  background: #0085ac;
+  color: white;
+}
+
+/* Distribute header, footer, body */
+/* Prevents footer from rising above bottom of viewport */
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  display: flex;
+  flex-flow: column nowrap;
+}
+main {
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding: 0 var(--content-margin);
+}
+footer, header {
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 0 var(--content-margin)
+}
+
+/* Style the header */
+
+header {
+  --header-row-height: 2rem;
+  border-bottom: 1px solid black;
+}
+header .content-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem -0.5rem 0 -0.5rem;
+}
+header .homepage-link {
+  font-size: var(--header-row-height);
+  margin: 0 0.5rem 0.5rem 0.5rem; /* TODO: should probably use rems for most spacing throughout */
+  color: black;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+header nav.intrasite-links {
+  margin: 0 0.5rem 0.5rem 0.5rem;
+  flex: 0 1 auto;
+  height: var(--header-row-height);
+  display: flex;
+  align-items: center;
+}
+
+/* Style the footer */
+
+footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  border-top: 1px solid var(--unobtrusive);
+}
+
+/* Define inline lists */
+/* TODO this doesn't _really_ center the list-item markers */
+/* TODO screenreaders may not like list-style-type: none; see mdn for fix */
+
+.inline-list {
+  display: flex inline;
+  flex-flow: row nowrap;
+  margin: 0;
+  padding: 0;
+}
+.inline-list > li {
+  list-style-position: inside;
+  margin-right: 0.5em;
+}
+/* TODO: does this allow nesting? probably irrelevant */
+.inline-list > li:first-of-type {
+  list-style-type: none;
+}
+.inline-list > li:last-of-type {
+  margin-right: 0;
+}
+/* li::marker content would work to center the marker, but isn't widely supported yet */
+/* .inline-list > li::marker {
+  content: "AAA";
+} */
+
+/* Define asides */
+
+.aside {
+  font-style: italic;
+  font-size: 0.85em;
+}
+
+/* Style search bars */
+
+form.search {
+  --search-bar-height: 2em;
+  height: var(--search-bar-height);
+  border: 2px solid black;
+  display: flex;
+  flex-flow: row nowrap;
+  align-content: stretch;
+}
+form.search:focus-within {
+  outline-color: blue;
+  /* outline-width: 3px;
+  outline-style: double; */
+}
+form.search input {
+  flex: 1 1 auto;
+  min-width: 2em;
+  height: 100%;
+  font-size: inherit;
+  padding: 0.25em 0.5em 0.25em 0em;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+}
+form.search .search-icon {
+  height: var(--search-bar-height);
+  width: var(--search-bar-height);
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  padding: 0.2em;
+  color: var(--unobtrusive);
+}
+
+form.search.large {
+  width: 20em; /* TODO: scale this somehow - media-query ratcheting? */
+  max-width: 100%;
+  font-size: 2em;
+  /* TODO: this is crude, letting margins collapse would be better; possibly
+     stop using flex for the homepage elements, instead putting them in a flex
+     item for centering and using block layout inside it */
+  margin: 1em 0 0.5em 0;
+}
+form.search.large input {
+
+}
+
+form.search.small {
+  flex: 1 1 20rem;
+  margin: 0 0.5rem 0.5rem 0.5rem;
+}
+form.search.small input {
+
+}
+
+/* Load fonts */
+
+@font-face {
+  font-family: "Chomsky";
+  src: url("/fonts/chomsky/Chomsky.woff") format("woff2");
+}
+
+/* Style the homepage */
+
+/* Center the contents of the homepage */
+
+main.homepage {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Style homepage header */
+
+.homepage-title {
+  font-size: 3.5em;
+  font-family: "Chomsky", serif;
+  font-weight: normal;
+  margin: 0;
+}
+
+/* Style all card displays */
+
+.card ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 1.25em;
+}
+
+/* Style single-card display */
+
+.card.large {
+  margin: 2em 0;
+}
+.card.large .flex-gutter-wrapper {
+  display: flex;
+  flex-flow: row-reverse wrap;
+  justify-content: center;
+  align-items: stretch;
+  width: calc(100% + 2em);
+  margin: -1em;
+}
+.card.large .card-image {
+  border: 1px solid var(--unobtrusive);
+  flex: 0 1 auto;
+  margin: 1em;
+}
+.card.large .card-box {
+  flex: 1 1 5em;
+  margin: 1em;
+  max-width: 40em;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.card.large .card-stats {
+  padding: 1px 1em 1em 1em;
+  border: solid var(--unobtrusive);
+  border-width: 0 1px 1px 1px;
+  flex-grow: 1;
+}
+.card.large .card-versions {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.card.large .card-versions .card-version-tab {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  padding: 0.5em;
+  box-sizing: border-box;
+  border: solid var(--unobtrusive);
+}
+.card.large .card-versions a {
+  text-decoration: none;
+  color: black;
+  font-variant: small-caps;
+}
+.card.large .card-versions a:hover {
+  text-decoration: underline;
+}
+.card.large .card-versions .card-version-tab.selected {
+  font-weight: bolder;
+  border-width: 1px 1px 0 1px;
+}
+.card.large .card-versions .card-version-tab:not(.selected) {
+  background-color: var(--light);
+  border-width: 0 0 1px 0;
+  padding: 0.3em;
+  align-self: flex-end;
+}
+.card.large .card-titleline {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 0.5em 0 0.5em 0;
+}
+.card.large .card-title {
+  margin-right: auto;
+}
+.card.large .card-fields {
+  border: solid black;
+  border-width: 1px 0 1px 0;
+  padding: 0.5em 0 0.5em 0;
+}
+.card.large .card-fields dt, .card.large .card-fields dt::after {
+  font-weight: bolder;
+  display: inline;
+}
+.card.large .card-fields dt::after {
+  content: ": ";
+  display: inline;
+}
+.card.large dd {
+  display: inline;
+  margin-left: 0;
+}
+
+/* Style card-list display */
+
+ul.card-list {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 1em 0;
+  padding: 0;
+  justify-content: space-between;
+}
+.card-list > li {
+  --card-gutter-half-width: 0.4em;
+  list-style-type: none;
+  margin: 0.5em 0;
+  width: 100%;
+}
+.card-list .flex-gutter-wrapper {
+  margin: 0 calc( -1 * var(--card-gutter-half-width));
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+a.card.small {
+  color: black;
+  text-decoration: none;
+}
+.card.small {
+  flex-basis: 100%;
+  border: 1px solid var(--unobtrusive);
+  padding: 0.5em;
+  margin: 0.5em var(--card-gutter-half-width);
+  box-sizing: border-box;
+}
+.card.small .card-titleline {
+  margin: 0;
+  font-size: 1em;
+}
+.card.small:hover .card-titleline {
+  text-decoration: underline;
+}
+.card.small .card-number {
+  font-family: monospace;
+}
+.card.small .card-period {
+  font-family: monospace;
+}
+.card.small .card-version {
+  font-variant: small-caps;
+  font-weight: normal;
+}
+.card.small .card-typeline {
+  border: solid var(--unobtrusive);
+  border-width: 1px 0 1px 0;
+  padding: 0.5em 0 0.5em 0;
+  margin: 0.5em 0 0.5em 0;
+}
+.card.small .card-text {
+  padding: 0 0.25em 0 0.25em;
+}
+.card.small.match {
+  outline: 0.3em solid var(--matching-color);
+}
+
+/* Style query error descriptions */
+
+.query-error {
+  background: #ffb0b0;
+  padding: 0.75em;
+  margin: 1em 0;
+  border: 2px solid red;
+  border-radius: 0.5em;
+}
+
+/* Style query description */
+
+.query-description {
+  /* background: #d0d0d0; */
+  padding: 0.75em;
+  margin: 2em 0 0 0;
+  border: 2px solid var(--unobtrusive);
+  border-radius: 0.5em;
+}
+
+.query-description .card-count {
+  background-color: var(--matching-color);
+  padding: 0.1em 0.2em;
+  border-radius: 0.2em;
+}
+
+/* Style search syntax page */
+
+/* #search-syntax p {
+  font-family: sans-serif;
+} */
+
+#search-syntax pre {
+  background: #e0e0e0;
+  border: 1px solid var(--unobtrusive);
+  line-height: 1.5;
+  padding: 0.3em;
+  border-radius: 0.25em;
+  margin: 1em;
+}
+
+#search-syntax p {
+  margin: 1em;
+}
+
+/* Misc/TODO */
+
+.homepage-link {
+  font-family: "Chomsky", serif;
+}
+
+/* Styles for larger screens */
+
+@media (min-width: 40em) {
+  :root {
+    --content-margin: 5%;
+  }
+  .card.small {
+    flex: 1 1 0;
+    /* TODO: instead could set flex-basis exactly: */
+    /* flex-basis: calc(50% - 2 * var(--card-gutter-half-width)); */
+  }
+  header nav.intrasite-links {
+    flex-shrink: 0;
+  }
+}
+
+@media (min-width: 90em) {
+  .card-list > li {
+    width: 47.5%;
+  }
+}

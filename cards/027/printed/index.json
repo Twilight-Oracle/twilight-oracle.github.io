@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eUS gains sufficient Influence in Japan for Control.\u003c/p\u003e\n\u003cp\u003eUSSR may no longer may Coup or Realignment rolls in Japan.\u003c/p\u003e\n",
+  "name": "US-Japan Mutual Defense Pact*",
+  "number": 27,
+  "ops": 4,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/027/printed/",
+  "plainContent": "US gains sufficient Influence in Japan for Control.\nUSSR may no longer may Coup or Realignment rolls in Japan.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eRemove 2 US Influence in France, add 1 USSR Influence. Cancels effects of \u003cem\u003eNATO\u003c/em\u003e for France.\u003c/p\u003e\n",
+  "name": "De Gaulle Leads France*",
+  "number": 17,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/017/printed/",
+  "plainContent": "Remove 2 US Influence in France, add 1 USSR Influence. Cancels effects of NATO for France.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

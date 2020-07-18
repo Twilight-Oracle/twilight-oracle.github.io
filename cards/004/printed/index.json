@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eDegrade DEFCON one level.\u003c/p\u003e\n\u003cp\u003eThen US player earns VPs equal to 5 minus current DEFCON level.\u003c/p\u003e\n",
+  "name": "Duck and Cover",
+  "number": 4,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/004/printed/",
+  "plainContent": "Degrade DEFCON one level.\nThen US player earns VPs equal to 5 minus current DEFCON level.\n",
+  "side": "USA",
+  "types": [],
+  "version": "printed"
+}

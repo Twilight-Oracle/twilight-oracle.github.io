@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eFor each of \u003ccode\u003eEgypt\u003c/code\u003e, \u003ccode\u003eIran\u003c/code\u003e, \u003ccode\u003eLibya\u003c/code\u003e, \u003ccode\u003eSaudi Arabia\u003c/code\u003e, \u003ccode\u003eIraq\u003c/code\u003e, \u003ccode\u003eGulf States\u003c/code\u003e, and \u003ccode\u003eVenezuela\u003c/code\u003e which USSR controls, award USSR 1 VP.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This card instead does nothing during \u003ccode\u003e086-L North Sea Oil\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "OPEC",
+  "number": 61,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/061/oracle/",
+  "plainContent": "For each of Egypt, Iran, Libya, Saudi Arabia, Iraq, Gulf States, and Venezuela which USSR controls, award USSR 1 VP.\n(This card instead does nothing during 086-L North Sea Oil.)\n",
+  "side": "USSR",
+  "types": [],
+  "version": "oracle"
+}

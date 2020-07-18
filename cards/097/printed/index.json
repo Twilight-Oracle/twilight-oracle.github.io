@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eCancels/prevents \u003cem\u003eFlower Power\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003eUS gains 1 VP.\u003c/p\u003e\n",
+  "name": "An Evil Empire*",
+  "number": 97,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/097/printed/",
+  "plainContent": "Cancels/prevents Flower Power.\nUS gains 1 VP.\n",
+  "side": "USA",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

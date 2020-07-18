@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUntil end of turn, when USA launches a coup in a battleground, do not decrement DEFCON.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This does not prevent USA from losing the game to \u003ccode\u003e040-M Cuban Missile Crisis\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Nuclear Subs*",
+  "number": 41,
+  "ops": 2,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/041/oracle/",
+  "plainContent": "Until end of turn, when USA launches a coup in a battleground, do not decrement DEFCON.\n(This does not prevent USA from losing the game to 040-M Cuban Missile Crisis.)\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

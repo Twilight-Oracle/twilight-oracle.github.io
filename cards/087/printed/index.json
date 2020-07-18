@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003eAdd 4 Influence in Europe (no more than 2 per country). If USSR is ahead of US in VP, then 6 Influence may be added instead.\u003c/p\u003e\n\u003cp\u003eUSSR may no longer conduct Coup attempts in Europe.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eImproves effect of \u0026lsquo;Glasnost\u0026rsquo; event.\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "The Reformer*",
+  "number": 87,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/087/printed/",
+  "plainContent": "Add 4 Influence in Europe (no more than 2 per country). If USSR is ahead of US in VP, then 6 Influence may be added instead.\nUSSR may no longer conduct Coup attempts in Europe.\nImproves effect of \u0026lsquo;Glasnost\u0026rsquo; event.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "printed"
+}

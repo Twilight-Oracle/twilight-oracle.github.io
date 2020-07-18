@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003eUSSR may launch a coup in a non-battleground country in \u003ccode\u003eCentral America\u003c/code\u003e, \u003ccode\u003eSouth America\u003c/code\u003e, or \u003ccode\u003eAfrica\u003c/code\u003e using this card.\u003c/p\u003e\n\u003cp\u003eIf any USA influence is removed this way, USSR may launch a coup in a different non-battleground country in \u003ccode\u003eCentral America\u003c/code\u003e, \u003ccode\u003eSouth America\u003c/code\u003e, or \u003ccode\u003eAfrica\u003c/code\u003e using this card.\u003c/p\u003e\n",
+  "name": "Che",
+  "number": 107,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/107/oracle/",
+  "plainContent": "USSR may launch a coup in a non-battleground country in Central America, South America, or Africa using this card.\nIf any USA influence is removed this way, USSR may launch a coup in a different non-battleground country in Central America, South America, or Africa using this card.\n",
+  "side": "USSR",
+  "types": [],
+  "version": "oracle"
+}

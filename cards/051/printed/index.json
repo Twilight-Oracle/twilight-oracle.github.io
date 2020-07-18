@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eAll further Operations cards played by the USSR this turn increase their OPs value by one (to a maximum of 4).\u003c/p\u003e\n",
+  "name": "Brezhnev Doctrine*",
+  "number": 51,
+  "ops": 3,
+  "period": "M",
+  "permalink": "twilight-oracle.github.io/cards/051/printed/",
+  "plainContent": "All further Operations cards played by the USSR this turn increase their OPs value by one (to a maximum of 4).\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "printed"
+}

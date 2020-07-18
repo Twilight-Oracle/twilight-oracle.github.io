@@ -1,0 +1,15 @@
+{
+  "htmlContent": "\u003cp\u003ePerform one (USSR\u0026rsquo;s choice):\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRemove all USA influence from up to 4 countries in \u003ccode\u003eEastern Europe\u003c/code\u003e.\u003c/li\u003e\n\u003cli\u003ePlace 5 USSR influence in \u003ccode\u003eEastern Europe\u003c/code\u003e. Do not place more than 2 influence in any single country.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cem\u003eOngoing\u003c/em\u003e — \u003ccode\u003e021-E NATO\u003c/code\u003e can now be resolved.\u003c/p\u003e\n",
+  "name": "Warsaw Pact Formed*",
+  "number": 16,
+  "ops": 3,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/016/oracle/",
+  "plainContent": "Perform one (USSR\u0026rsquo;s choice):\n Remove all USA influence from up to 4 countries in Eastern Europe. Place 5 USSR influence in Eastern Europe. Do not place more than 2 influence in any single country.  Ongoing — 021-E NATO can now be resolved.\n",
+  "side": "USSR",
+  "types": [
+    "continuous",
+    "unique"
+  ],
+  "version": "oracle"
+}

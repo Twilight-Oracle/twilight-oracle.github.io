@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eUSA names a region. Until end of turn, USSR may not spread influence in any country in that region.\u003c/p\u003e\n",
+  "name": "Chernobyl*",
+  "number": 94,
+  "ops": 3,
+  "period": "L",
+  "permalink": "twilight-oracle.github.io/cards/094/oracle/",
+  "plainContent": "USA names a region. Until end of turn, USSR may not spread influence in any country in that region.\n",
+  "side": "USA",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}

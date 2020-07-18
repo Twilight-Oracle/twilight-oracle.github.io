@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eScore the \u003ccode\u003eMiddle East\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Middle East Scoring",
+  "number": 3,
+  "ops": null,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/003/oracle/",
+  "plainContent": "Score the Middle East.\n",
+  "side": "none",
+  "types": [
+    "scoring"
+  ],
+  "version": "oracle"
+}

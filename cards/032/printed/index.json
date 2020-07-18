@@ -1,0 +1,12 @@
+{
+  "htmlContent": "\u003cp\u003ePlay this card simultaneously with a card containing your opponent\u0026rsquo;s associated Event. The Event is canceled, but you may use its Operations value to Conduct Operations. The canceled event card returns to the discard pile. May not be played during headline phase.\u003c/p\u003e\n",
+  "name": "UN Intervention",
+  "number": 32,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/032/printed/",
+  "plainContent": "Play this card simultaneously with a card containing your opponent\u0026rsquo;s associated Event. The Event is canceled, but you may use its Operations value to Conduct Operations. The canceled event card returns to the discard pile. May not be played during headline phase.\n",
+  "side": "none",
+  "types": [],
+  "version": "printed"
+}

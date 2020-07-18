@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eAward USSR 2 military operations.\u003c/p\u003e\n\u003cp\u003eRoll a die and subtract 1 for each of \u003ccode\u003eIsrael\u003c/code\u003e and its adjacent countries that is USA-controlled. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from \u003ccode\u003eIsrael\u003c/code\u003e, and place USSR influence there equal to the amount removed.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e(This card instead does nothing during \u003ccode\u003e065-M Camp David Accords\u003c/code\u003e.)\u003c/em\u003e\u003c/p\u003e\n",
+  "name": "Arab-Israeli War",
+  "number": 13,
+  "ops": 2,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/013/oracle/",
+  "plainContent": "Award USSR 2 military operations.\nRoll a die and subtract 1 for each of Israel and its adjacent countries that is USA-controlled. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from Israel, and place USSR influence there equal to the amount removed.\n(This card instead does nothing during 065-M Camp David Accords.)\n",
+  "side": "USSR",
+  "types": [
+    "war"
+  ],
+  "version": "oracle"
+}

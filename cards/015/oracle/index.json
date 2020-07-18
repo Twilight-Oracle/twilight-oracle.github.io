@@ -1,0 +1,14 @@
+{
+  "htmlContent": "\u003cp\u003eRemove USA influence from \u003ccode\u003eEgypt\u003c/code\u003e equal to half, rounded up, of the USA influence there.\u003c/p\u003e\n\u003cp\u003ePlace 2 USSR influence in \u003ccode\u003eEgypt\u003c/code\u003e.\u003c/p\u003e\n",
+  "name": "Nasser*",
+  "number": 15,
+  "ops": 1,
+  "period": "E",
+  "permalink": "twilight-oracle.github.io/cards/015/oracle/",
+  "plainContent": "Remove USA influence from Egypt equal to half, rounded up, of the USA influence there.\nPlace 2 USSR influence in Egypt.\n",
+  "side": "USSR",
+  "types": [
+    "unique"
+  ],
+  "version": "oracle"
+}
