@@ -4,7 +4,7 @@
   "number": 5,
   "ops": 3,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/005/oracle/",
+  "permalink": "/cards/005/oracle/",
   "plainContent": "USSR chooses a card in its hand at random and discards it.\nIf that card is USA-aligned, USA resolves it.\n",
   "side": "USA",
   "types": [],

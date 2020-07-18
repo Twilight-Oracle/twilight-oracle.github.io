@@ -4,7 +4,7 @@
   "number": 50,
   "ops": 4,
   "period": "M",
-  "permalink": "twilight-oracle.github.io/cards/050/oracle/",
+  "permalink": "/cards/050/oracle/",
   "plainContent": "Decrement DEFCON.\nWhen USA next plays a card in an action round, unless that card is 032-E UN Intervention and USA chooses to resolve it, award USSR 3 VP.\n",
   "side": "USSR",
   "types": [

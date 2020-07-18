@@ -4,7 +4,7 @@
   "number": 100,
   "ops": 4,
   "period": "L",
-  "permalink": "twilight-oracle.github.io/cards/100/oracle/",
+  "permalink": "/cards/100/oracle/",
   "plainContent": "If DEFCON is 2, you may award the enemy 6 VP.\nIf you do, the game ends. The side with more VP wins.\n",
   "side": "none",
   "types": [

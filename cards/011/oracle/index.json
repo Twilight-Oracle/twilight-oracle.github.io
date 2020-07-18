@@ -4,7 +4,7 @@
   "number": 11,
   "ops": 2,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/011/oracle/",
+  "permalink": "/cards/011/oracle/",
   "plainContent": "Award USSR 2 military operations.\nRoll a die and subtract 1 for each USA-controlled country adjacent to South Korea. If the result is 4 or greater, award 2 VP to USSR, remove all USA influence from South Korea, and place USSR influence there equal to the amount removed.\n",
   "side": "USSR",
   "types": [

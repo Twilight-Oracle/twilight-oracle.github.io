@@ -4,7 +4,7 @@
   "number": 32,
   "ops": 1,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/032/oracle/",
+  "permalink": "/cards/032/oracle/",
   "plainContent": "If this card is a headline, it does nothing.\nOtherwise, discard a card aligned with the enemy. Conduct operations with that card.\n(That card is not resolved. Neutral cards are aligned with neither side.)\n",
   "side": "none",
   "types": [],

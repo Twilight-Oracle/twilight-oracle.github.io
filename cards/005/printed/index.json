@@ -4,7 +4,7 @@
   "number": 5,
   "ops": 3,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/005/printed/",
+  "permalink": "/cards/005/printed/",
   "plainContent": "USSR player must randomly dicard one card. If the card is a US associated Event, the Event occurs immeditely. If the card is a USSR associated Event or an Event applicable to both players, then the card must be discarded without triggering the Event.\n",
   "side": "USA",
   "types": [],

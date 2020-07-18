@@ -4,7 +4,7 @@
   "number": 25,
   "ops": 3,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/025/oracle/",
+  "permalink": "/cards/025/oracle/",
   "plainContent": "Until end of turn, the operations value of any card played by USA is 1 greater. A card\u0026rsquo;s operations value cannot exceed 4 in this way.\n",
   "side": "USA",
   "types": [

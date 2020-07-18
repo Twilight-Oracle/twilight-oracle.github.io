@@ -4,7 +4,7 @@
   "number": 20,
   "ops": 2,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/020/oracle/",
+  "permalink": "/cards/020/oracle/",
   "plainContent": "Perform one (enemy\u0026rsquo;s choice):\n Roll a die and add 2. The enemy rolls a die. Repeat both rolls until one side has a greater result. Award 2 VP to that side. Decrement DEFCON. Conduct operations with this card as though its operations value were 4.  ",
   "side": "none",
   "types": [],

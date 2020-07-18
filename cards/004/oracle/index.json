@@ -4,7 +4,7 @@
   "number": 4,
   "ops": 3,
   "period": "E",
-  "permalink": "twilight-oracle.github.io/cards/004/oracle/",
+  "permalink": "/cards/004/oracle/",
   "plainContent": "Decrement DEFCON.\nAward USA VP equal to five minus DEFCON.\n",
   "side": "USA",
   "types": [],

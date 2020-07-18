@@ -4,7 +4,7 @@
   "number": 102,
   "ops": 2,
   "period": "L",
-  "permalink": "twilight-oracle.github.io/cards/102/oracle/",
+  "permalink": "/cards/102/oracle/",
   "plainContent": "Gain 2 military operations.\nChoose Iran or Iraq.\nRoll a die and subtract 1 for each enemy-controlled country adjacent to the chosen country. If the result is 4 or greater, gain 2 VP, remove all enemy influence from the chosen country, and place friendly influence there equal to the amount removed.\n",
   "side": "none",
   "types": [

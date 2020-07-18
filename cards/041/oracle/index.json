@@ -4,7 +4,7 @@
   "number": 41,
   "ops": 2,
   "period": "M",
-  "permalink": "twilight-oracle.github.io/cards/041/oracle/",
+  "permalink": "/cards/041/oracle/",
   "plainContent": "Until end of turn, when USA launches a coup in a battleground, do not decrement DEFCON.\n(This does not prevent USA from losing the game to 040-M Cuban Missile Crisis.)\n",
   "side": "USA",
   "types": [
