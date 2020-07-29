@@ -19,7 +19,7 @@
       <input type="text" name="q" id="search-text-input" placeholder="Search cards">
     </form>
     <nav class="intrasite-links">
-  <ul class="inline-list">
+  <ul class="button-list">
     <li><a href="/cards">All Cards</a></li>
     <li><a rel="noreferrer noopener" href="https://github.com/Lady-Glass/docs/blob/master/TS%20Rules.pdf">Rules Rewrite</a></li>
     <li><a href="/search">Search Syntax</a></li>
@@ -34,52 +34,52 @@
   <div id="search-results"></div>
   <div id="search-syntax" style="display: none;">
     <h1 id="search-syntax">Search Syntax</h1>
-<p>Entering words or numbers into the search bar will search for cards containing all of those words or numbers.</p>
+<p>Entering words or numbers into the search bar will search for cards containing all of those terms.</p>
 <pre><code>remove 3 influence early war
-</code></pre><p>Enclosing a phrase in quotes will search for exactly that list of words.</p>
+</code></pre><p>Enclose a phrase in quotes to search for exactly that list of words.</p>
 <pre><code>remove &quot;3 influence&quot; &quot;early war&quot;
 </code></pre><p>Combine search terms with &ldquo;or&rdquo; to search for either one or the other.</p>
 <pre><code>(place or remove) 3 influence (&quot;early war&quot; or &quot;mid war&quot;)
 </code></pre><p>Modify search terms with &ldquo;not&rdquo; to filter out containing those terms.</p>
 <pre><code>not (place influence)
-</code></pre><p>Combining terms with &ldquo;and&rdquo; requires all of them (the default behavior).</p>
+</code></pre><p>Combine terms with &ldquo;and&rdquo; to require all of them (the default behavior).</p>
 <pre><code>influence and not place
 </code></pre><h2 id="card-number">Card Number</h2>
 <p>Filter cards by number:</p>
 <pre><code>number=109
-number&gt;=103
+</code></pre><pre><code>number&gt;=103
 </code></pre><h2 id="card-name">Card Name</h2>
 <p>Filter cards by name:</p>
 <pre><code>name:China
-name=&quot;The China Card&quot;
+</code></pre><pre><code>name=&quot;The China Card&quot;
 </code></pre><h2 id="card-type">Card Type</h2>
 <p>Filter cards by type:</p>
 <pre><code>type:scoring
-type:war
-type:&quot;ongoing effect&quot; and type:&quot;removed after event&quot;
+</code></pre><pre><code>type:war
+</code></pre><pre><code>type:&quot;ongoing effect&quot; and type:&quot;removed after event&quot;
 </code></pre><h2 id="operations-value">Operations Value</h2>
 <p>Filter cards by operations value:</p>
 <pre><code>ops&gt;3
-ops&lt;=2
-ops=1
-ops=1 or ops=4
+</code></pre><pre><code>ops&lt;=2
+</code></pre><pre><code>ops=1
+</code></pre><pre><code>ops=1 or ops=4
 </code></pre><h2 id="war-period">War Period</h2>
-<p>Filter cards by period:</p>
+<p>Filter cards by war period:</p>
 <pre><code>period:early
-period:&quot;Mid War&quot;
-period=L
+</code></pre><pre><code>period:&quot;Mid War&quot;
+</code></pre><pre><code>period=L
 </code></pre><h2 id="side">Side</h2>
 <p>Filter cards by side:</p>
 <pre><code>side:USA
-side:USSR
-not side:Neutral
+</code></pre><pre><code>side:USSR
+</code></pre><pre><code>not side:Neutral
 </code></pre><h2 id="card-text">Card Text</h2>
 <p>Filter cards by text:</p>
 <pre><code>text:place and text:influence
 </code></pre><h2 id="card-version">Card Version</h2>
 <p>Filter cards by version (oracle or printed):</p>
 <pre><code>version:oracle
-version:printed and text:replace
+</code></pre><pre><code>version:printed and text:replace
 </code></pre>
   </div>
   <script src="/search.js" charset="utf-8"></script>
